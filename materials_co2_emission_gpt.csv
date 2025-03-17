@@ -1,0 +1,63 @@
+﻿material,CO2_kg
+Aluminium,8.6
+Steel,1.85
+Copper,4.0
+Iron,2.2
+Titanium,10.0
+Zinc,3.5
+Lead,1.6
+Magnesium,15.0
+Nickel,9.0
+Polycarbonate (PC),5.2
+Polyethylene (PE),2.0
+Polypropylene (PP),1.8
+Polystyrene (PS),3.2
+Polyethylene terephthalate (PET),4.0
+Polyvinyl chloride (PVC),2.4
+Acrylonitrile butadiene styrene (ABS),4.2
+Nylon,5.4
+Polymethylmethacrylate (PMMA),6.0
+Carbon fibre,20.0
+Glass fibre,10.0
+Kevlar,8.0
+Synthetic rubber,3.5
+Thermoplastic elastomers (TPE),4.5
+Solid wood,0.4
+MDF,1.0
+Chipboard,1.2
+Plywood,0.9
+Cork,0.3
+Card,1.1
+Recycled paper,0.9
+Cardboard,1.3
+Cotton,2.5
+Lana,5.0
+Silk,7.0
+Linen,3.0
+Hemp,2.2
+Polyester,6.0
+Rayon,4.5
+Lyocell,4.2
+Viscose,4.0
+Elastane (Spandex),8.0
+Concrete,0.15
+Cement,0.9
+Gypsum,0.2
+Ceramic,2.0
+Clay,1.8
+Bricks,0.6
+Natural stone,0.3
+Marble,1.2
+Granite,1.5
+Glass,1.2
+Tempered glass,1.5
+Borosilicate glass,1.8
+Laminated glass,2.0
+Glass fibre,10.0
+Graphene,30.0
+Silicon,1.4
+Sulphur,2.1
+Lithium,8.5
+Neodymium,50.0
+Cobalt,30.0
+Tantalum,40.0
