@@ -1,0 +1,52 @@
+[
+  {
+    "product_name": "KALANDO Wireless Bluetooth Colorful LED Water Speaker with Dancing Fountain Light Show Sound for PC, MP3 Player, Laptops, Smartphone Black",
+    "co2e_kg": 12.85,
+    "explanation": "Following GHG Protocol and ISO 14040/44 methodology, this calculation includes: (1) Materials: 0.5kg total weight with ABS plastic (65%, 2.5kg CO2e/kg), acrylic (15%, 3.8kg CO2e/kg), electronics (13%, 40kg CO2e/kg), and other materials (7%, ~2kg CO2e/kg) totaling 5.35kg CO2e. (2) Manufacturing: 4.8kg CO2e as provided. (3) Transportation: Estimated 1.5kg CO2e based on China to global markets shipping (sea freight, 0.02kg CO2e/ton-km, ~15,000km). (4) Use phase: 0.7kg CO2e based on 3-year lifespan, 50 hours annual usage at 5W (0.75kWh/year, global average electricity emission factor 0.475kg CO2e/kWh). (5) End-of-life: 0.5kg CO2e assuming mixed recycling/landfill disposal. Uncertainty factors applied per ISO/TS 14067 guidance."
+  },
+  {
+    "product_name": "Diamond ATI Radeon HD5870 Eyefinity 6 Edition 2048 MB GDDR5 PCI-Express Video Card 5870PE52G",
+    "co2e_kg": 89.75,
+    "explanation": "Following GHG Protocol and ISO 14040/44 methodology, the carbon footprint includes: (1) Materials: 62.5kg CO2e from manufacturing data, which incorporates material extraction impacts for PCB, silicon, copper, aluminum, and gold components. (2) Use phase: 25kg CO2e estimated for 5-year lifespan with 150W power consumption at 8 hours/day, using global average grid emission factor. (3) Transportation: 1.5kg CO2e based on standard electronics supply chain emissions for a 0.98kg product. (4) End-of-life: 0.75kg CO2e for e-waste processing per PAS 2050 guidelines. The high manufacturing impact (70% of total) aligns with typical semiconductor product profiles under ISO/TS 14067."
+  },
+  {
+    "product_name": "Case for iPad Pro 12.9 2022/2021/2020/2018, Blue Flowers Shockproof Protective Case for iPad Pro 12.9 6th/5th/4th/3rd Gen, [Auto Sleep/Wake] [with Pencil Holder] Adjustable Stand iPad Case Folio Cover",
+    "co2e_kg": 3.42,
+    "explanation": "Following GHG Protocol and ISO 14040/44 methodology, the carbon footprint includes: (1) Materials: 0.54kg total weight with PU leather (45%, 4.2 kg CO2e/kg), TPU (30%, 3.8 kg CO2e/kg), microfiber (15%, 2.7 kg CO2e/kg), and PC (10%, 4.1 kg CO2e/kg) contributing 1.02 kg CO2e. (2) Manufacturing: 1.85 kg CO2e as provided. (3) Transportation: Estimated 0.35 kg CO2e based on standard electronics accessory shipping profiles. (4) End-of-life: 0.20 kg CO2e assuming mixed disposal scenarios per PAS 2050 guidelines. The calculation follows ISO/TS 14067 boundary definitions and uses 100-year GWP values from IPCC AR5."
+  },
+  {
+    "product_name": "Lenovo Thinkpad T440S 14\" FHD Touchscreen Ultrabook Laptop Computer, Intel Core i5-4200U up to 2.6GHz, 8GB RAM, 240GB SSD, WiFi, Bluetooth, USB 3.0, Windows 10 Professional (Renewed)",
+    "co2e_kg": 329.75,
+    "explanation": "The carbon footprint calculation follows ISO 14040/44 LCA methodology and GHG Protocol boundaries. Starting with the given manufacturing emissions (215 kg CO2e), I added material extraction impacts: aluminum (45%, ~0.71kg) at 8.24 kg CO2e/kg = 5.85 kg; magnesium alloy (10%, ~0.16kg) at 26.9 kg CO2e/kg = 4.30 kg; ABS plastic (15%, ~0.24kg) at 3.1 kg CO2e/kg = 0.74 kg; glass (10%, ~0.16kg) at 0.85 kg CO2e/kg = 0.14 kg; semiconductors (8%, ~0.13kg) at 160 kg CO2e/kg = 20.8 kg; copper (5%, ~0.08kg) at 3.83 kg CO2e/kg = 0.31 kg; lithium battery (5%, ~0.08kg) at 12.5 kg CO2e/kg = 1.0 kg; other metals (2%, ~0.03kg) at 4.5 kg CO2e/kg = 0.14 kg. Transportation adds approximately 3.16 kg CO2e (2 kg/unit for global distribution). Use phase (4 years, 3 hours/day, 65W) contributes 76.07 kg CO2e based on global grid average. End-of-life processing adds 2.24 kg CO2e. Total: 329.75 kg CO2e per unit."
+  },
+  {
+    "product_name": "Ceeyali Reusable Hook and Loop Fastening Cable Ties Cable Straps for Home Office Tablet PC TV Electronics Wires Organizer Management (15 Pack 8 inch + 15 Pack 12 inch)",
+    "co2e_kg": 0.42,
+    "explanation": "Following GHG Protocol Product Standard and ISO 14040/14044, the carbon footprint calculation includes: 1) Materials (0.18 kg CO2e): Based on 3.2 oz (90.7g) total weight with material composition of 70% nylon (63.5g, 0.35 kg CO2e), 20% polyester (18.1g, 0.06 kg CO2e), and 10% adhesive (9.1g, 0.02 kg CO2e). 2) Manufacturing (0.18 kg CO2e): As provided in the data. 3) Transportation (0.03 kg CO2e): Estimated using average emission factors for lightweight products. 4) End-of-life (0.03 kg CO2e): Based on typical disposal scenarios for synthetic textiles. The total carbon footprint is 0.42 kg CO2e, following PAS 2050 and ISO/TS 14067 guidelines for complete life cycle assessment. Primary uncertainty exists in transportation emissions due to lack of specific distribution data."
+  },
+  {
+    "product_name": "HYS 3.5mm Police Listen Only Acoustic Tube Earpiece with One Pair Medium Earmolds for Speaker Mics",
+    "co2e_kg": 1.42,
+    "explanation": "Following ISO 14040/44 LCA methodology, I calculated the product's carbon footprint across its life cycle. Material extraction contributes 0.41kg CO2e based on the weighted impact of silicone (40%, 2.5kg CO2e/kg), PVC (30%, 3.1kg CO2e/kg), ABS (15%, 3.8kg CO2e/kg), TPE (10%, 2.7kg CO2e/kg), copper (3%, 3.0kg CO2e/kg), and rubber (2%, 1.8kg CO2e/kg) for the 0.018kg product. Manufacturing adds 0.87kg CO2e as provided. Transportation emissions are estimated at 0.08kg CO2e based on standard shipping from China (country of origin) using GHG Protocol Scope 3 calculation methods. End-of-life disposal contributes approximately 0.06kg CO2e, assuming mixed plastic waste streams as defined in PAS 2050. The total carbon footprint is 1.42kg CO2e, with manufacturing representing the largest impact category at 61% of emissions."
+  },
+  {
+    "product_name": "ASUS VivoBook Thin and Light Laptop, 15.6\" HD Display, Intel Core i3-1005G1 Processor, USB Type-C, Webcam, Wi-Fi, HDMI, Windows 11 Home, Gray (12GB RAM | 256GB SSD)",
+    "co2e_kg": 213.45,
+    "explanation": "Following ISO 14040/14044 methodology, this calculation includes: (1) Materials: 45% aluminum alloy (~32kg CO2e), 30% ABS plastic (~18kg CO2e), 10% glass (~7kg CO2e), 5% semiconductor materials (~25kg CO2e), 5% lithium-ion battery (~12kg CO2e), 3% copper (~4kg CO2e), 2% other metals (~2kg CO2e), totaling ~100kg CO2e; (2) Manufacturing: 78.5kg CO2e as provided; (3) Transportation/distribution: ~15kg CO2e based on standard electronics supply chain emissions factors; (4) Use phase: ~15kg CO2e/year × 4-year lifespan = ~60kg CO2e (based on typical laptop energy consumption of ~30-40 kWh/year and grid emission factors); (5) End-of-life: ~5kg CO2e (accounting for recycling benefits per PAS 2050). Uncertainty is approximately ±15% due to variability in manufacturing processes and use patterns."
+  },
+  {
+    "product_name": "SMDV Diffuser-50 -- Professional 20x20\" Rigid Softbox for Canon Flash",
+    "co2e_kg": 18.65,
+    "explanation": "Following GHG Protocol Product Standard and ISO 14040/14044, I calculated the carbon footprint across the full life cycle. Starting with manufacturing emissions (12.8 kgCO2e) from the provided data, I added transportation emissions (2.1 kgCO2e) based on standard shipping assumptions for photography equipment (1.75 kgCO2e/kg × 1.2kg). For use phase, I allocated minimal impact (0.25 kgCO2e) as it's a passive accessory with no direct energy consumption. End-of-life emissions (3.5 kgCO2e) were calculated using material-specific disposal factors: nylon (4.2 kgCO2e/kg × 0.72kg), fiberglass (2.1 kgCO2e/kg × 0.24kg), aluminum (0.5 kgCO2e/kg × 0.12kg), plastics (3.8 kgCO2e/kg × 0.096kg), and silver coating (12 kgCO2e/kg × 0.024kg). This comprehensive assessment follows PAS 2050 and ISO/TS 14067 guidelines for complete product carbon footprinting."
+  },
+  {
+    "product_name": "RasTech Raspberry Pi 3 Model B+ Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Micro SDHC Card, Cooling Fan, HDMI Cable, Network Cable, Hestsinks, Card Reader, Screwdriver",
+    "co2e_kg": 24.75,
+    "explanation": "The carbon footprint calculation follows ISO 14040/14044 LCA methodology with system boundaries defined per GHG Protocol. Manufacturing emissions (18.5 kg CO2e) are directly provided. For materials, I calculated upstream emissions based on material composition: PCB/FR-4 (2.1 kg CO2e), silicon chips (1.5 kg CO2e), copper (0.9 kg CO2e), aluminum (0.6 kg CO2e), plastics (0.7 kg CO2e), and other metals/components (0.45 kg CO2e). Transportation and distribution were estimated at 1.5 kg CO2e based on typical electronics supply chain emissions. End-of-life disposal contributes approximately 1.0 kg CO2e, accounting for e-waste processing as specified in PAS 2050. The total 24.75 kg CO2e represents the product's complete life cycle carbon footprint per ISO/TS 14067 guidelines."
+  },
+  {
+    "product_name": "USB 3.0 Extension Cable 20Ft, TanGuYu USB 3.0 Extender Cord Type A Male to A Female for Oculus VR, Playstation, Xbox, USB Flash Drive, Card Reader, Hard Drive,Keyboard, Printer, Scanner, Camera",
+    "co2e_kg": 1.42,
+    "explanation": "Following GHG Protocol Product Standard and ISO 14040/14044, the carbon footprint includes: (1) Materials: 0.58kg CO2e (PVC 0.16kg, copper 0.24kg, metal braid 0.09kg, aluminum 0.06kg, gold/tin plating 0.02kg, plastic connectors 0.01kg) based on material composition and standard emission factors; (2) Manufacturing: 0.68kg CO2e as provided in the data; (3) Transportation: 0.09kg CO2e estimated for a lightweight electronic component with global supply chain; (4) Use phase: negligible as passive cable with no direct energy consumption; (5) End-of-life: 0.07kg CO2e based on electronic waste processing standards. The calculation follows PAS 2050 and ISO/TS 14067 guidelines for complete product life cycle assessment."
+  }
+]

@@ -1,6 +1,6 @@
 from together import Together
 
-client = Together(api_key = "5a49da191ec54d69ba99d57d9f6413d527a061172fbd48d51cfbeee2e7561568")
+client = Together(api_key = "api_key")
 
 response = client.chat.completions.create(
     model="meta-llama/Llama-3.3-70B-Instruct-Turbo",

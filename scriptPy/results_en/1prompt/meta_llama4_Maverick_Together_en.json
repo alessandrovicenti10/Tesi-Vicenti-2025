@@ -1,0 +1,52 @@
+[
+  {
+    "product_name": "KALANDO Wireless Bluetooth Colorful LED Water Speaker with Dancing Fountain Light Show Sound for PC, MP3 Player, Laptops, Smartphone Black",
+    "co2e_kg": 3.95,
+    "explanation": "The CO2e estimate is based on the product's material composition, assuming 60% of its weight is plastic and the rest is electronics and other materials. Emission factors of 3.1 kg CO2e/kg for plastic and 15 kg CO2e/kg for electronics/other materials were used. The product's weight is 0.503 kg. The calculation does not include emissions from transportation or the use phase."
+  },
+  {
+    "product_name": "Diamond ATI Radeon HD5870 Eyefinity 6 Edition 2048 MB GDDR5 PCI-Express Video Card 5870PE52G",
+    "co2e_kg": 5.341,
+    "explanation": "The CO2e emissions for the Diamond ATI Radeon HD5870 Eyefinity 6 Edition graphics card are estimated to be approximately 5.341 kg. This is based on a weight of 980 grams and an assumed breakdown into metals (40%), plastics/polymers (20%), silicon (10%), and other materials (30%). Average emission factors for the production of these materials are applied."
+  },
+  {
+    "product_name": "Case for iPad Pro 12.9 2022/2021/2020/2018, Blue Flowers Shockproof Protective Case for iPad Pro 12.9 6th/5th/4th/3rd Gen, [Auto Sleep/Wake] [with Pencil Holder] Adjustable Stand iPad Case Folio Cover",
+    "co2e_kg": 6.29,
+    "explanation": "The CO2e emissions for the iPad case were estimated based on its material composition (PU leather, TPU, and microfiber) and weight (0.54 kg). Emission factors for each material were applied, and an additional 20% was added to account for manufacturing and distribution processes, resulting in a total of approximately 6.29 kg CO2e."
+  },
+  {
+    "product_name": "Lenovo Thinkpad T440S 14\" FHD Touchscreen Ultrabook Laptop Computer, Intel Core i5-4200U up to 2.6GHz, 8GB RAM, 240GB SSD, WiFi, Bluetooth, USB 3.0, Windows 10 Professional (Renewed)",
+    "co2e_kg": 10.94,
+    "explanation": "Estimated CO2e emissions for the Lenovo Thinkpad T440S laptop, considering its material composition and adjusting for refurbishment. The calculation is based on approximate material breakdown and emission factors, with a 50% reduction applied to account for the renewed status of the product."
+  },
+  {
+    "product_name": "Ceeyali Reusable Hook and Loop Fastening Cable Ties Cable Straps for Home Office Tablet PC TV Electronics Wires Organizer Management (15 Pack 8 inch + 15 Pack 12 inch)",
+    "co2e_kg": 1.0635,
+    "explanation": "The CO2e emissions for the Ceeyali Reusable Hook and Loop Fastening Cable Ties Cable Straps are estimated to be approximately 1.0635 kg. This calculation is based on the product's weight (3.2 ounces or 0.0907 kg), assumed material composition (90% fabric and 10% plastic/other), and average emission factors for fabric (12.5 kg CO2e/kg) and plastic (4.75 kg CO2e/kg)."
+  },
+  {
+    "product_name": "HYS 3.5mm Police Listen Only Acoustic Tube Earpiece with One Pair Medium Earmolds for Speaker Mics",
+    "co2e_kg": 0.124,
+    "explanation": "The CO2e emissions for the HYS 3.5mm Police Listen Only Acoustic Tube Earpiece were estimated by considering the material production (rubber), packaging (cardboard), and transportation. The product's weight is approximately 0.018 kg, with an assumed 90% rubber content. Emission factors for rubber production, cardboard packaging, and an average transportation scenario were applied. The total CO2e emissions are estimated to be around 0.124 kg."
+  },
+  {
+    "product_name": "ASUS VivoBook Thin and Light Laptop, 15.6\" HD Display, Intel Core i3-1005G1 Processor, USB Type-C, Webcam, Wi-Fi, HDMI, Windows 11 Home, Gray (12GB RAM | 256GB SSD)",
+    "co2e_kg": 192.45,
+    "explanation": "The estimated CO2e emissions for the ASUS VivoBook laptop are approximately 192.45 kg. This calculation is based on the breakdown of the laptop into its main components (body, screen, processor, RAM, SSD, and battery) and using average emission factors for each. The body (aluminum and plastics) contributes about 11.27 kg CO2e, the screen about 7.18 kg CO2e, the CPU about 75 kg CO2e, the RAM about 30 kg CO2e, the SSD about 15 kg CO2e, and the battery about 54 kg CO2e. These estimates are based on various LCA studies and simplified assumptions due to the lack of detailed component-specific data."
+  },
+  {
+    "product_name": "SMDV Diffuser-50 -- Professional 20x20\" Rigid Softbox for Canon Flash",
+    "co2e_kg": 3.38,
+    "explanation": "The CO2e emissions were estimated based on the product's material composition (nylon, fiberglass, and metals/plastics) and their respective emission factors. The product weighs 1.202 kg, with assumed breakdowns of 50% nylon, 30% fiberglass, and 20% metals/plastics. Using emission factors for these materials, the total CO2e was calculated to be approximately 3.377 kg, rounded to 3.38 kg."
+  },
+  {
+    "product_name": "RasTech Raspberry Pi 3 Model B+ Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Micro SDHC Card, Cooling Fan, HDMI Cable, Network Cable, Hestsinks, Card Reader, Screwdriver",
+    "co2e_kg": 5.82,
+    "explanation": "The CO2e emissions for the RasTech Raspberry Pi 3 Model B+ Starter Kit were estimated by considering the product's weight and an average emission factor for electronics manufacturing. The product weighs approximately 388 grams, and using an emission factor of 15 kg CO2e per kg of product, we arrive at an estimated 5.82 kg CO2e. This calculation simplifies the complex breakdown of materials and manufacturing processes involved in producing the kit and its various components."
+  },
+  {
+    "product_name": "USB 3.0 Extension Cable 20Ft, TanGuYu USB 3.0 Extender Cord Type A Male to A Female for Oculus VR, Playstation, Xbox, USB Flash Drive, Card Reader, Hard Drive,Keyboard, Printer, Scanner, Camera",
+    "co2e_kg": 1.36,
+    "explanation": "The CO2e emissions for the USB 3.0 Extension Cable are estimated based on its material composition. Assuming 40% copper, 30% PVC, and 30% other materials, and using average emission factors, the total CO2e emissions are approximately 1.36 kg. This estimate considers the production phase emissions and does not account for transportation, use phase, or end-of-life emissions."
+  }
+]

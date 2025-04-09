@@ -1,0 +1,52 @@
+[
+  {
+    "product_name": "KALANDO Wireless Bluetooth Colorful LED Water Speaker with Dancing Fountain Light Show Sound for PC, MP3 Player, Laptops, Smartphone Black",
+    "co2e_kg": 8.7,
+    "explanation": "Total CO2e emissions were calculated by summing emissions across all life cycle stages, following GHG Protocol Product Standard system boundaries. Manufacturing emissions (5.2 kg CO2e) were provided. Material extraction/processing was estimated at 2.1 kg CO2e (70% plastic at 3 kg CO2e/kg, 10% rubber at 1.5 kg CO2e/kg, 10% metal at 2 kg CO2e/kg, 5% glass at 0.5 kg CO2e/kg, 5% electronics at 1 kg CO2e/kg, scaled to 0.5 kg product weight). Transportation/distribution added 1.2 kg CO2e (assumed 5,000 km by sea at 0.01 kg CO2e/kg-km + 500 km by road at 0.1 kg CO2e/kg-km). End-of-life disposal contributed 0.2 kg CO2e (assumed 50% landfill, 50% recycling for plastics/metals). Emission factors were sourced from Ecoinvent and industry averages, with GWP values from IPCC AR5, per ISO 14044 and PAS 2050 requirements."
+  },
+  {
+    "product_name": "Diamond ATI Radeon HD5870 Eyefinity 6 Edition 2048 MB GDDR5 PCI-Express Video Card 5870PE52G",
+    "co2e_kg": 150.25,
+    "explanation": "The total CO2e emissions were calculated by summing emissions across all life cycle stages, following GHG Protocol Product Standard and ISO 14040/14044. Material extraction and processing (Scope 3 upstream) were estimated at ~25 kg CO2e based on material composition (silicon, plastics, metals) and industry-average emission factors. Manufacturing emissions (Scope 1 & 2) were provided as 120 kg CO2e. Transportation and distribution (Scope 3 upstream/downstream) were estimated at ~5 kg CO2e (assuming global logistics by air/sea). End-of-life disposal (Scope 3 downstream) was estimated at ~0.25 kg CO2e (assuming 95% landfill and 5% recycling, based on e-waste rates). All values were converted to CO2e using IPCC AR5 GWP factors, per PAS 2050 and ISO/TS 14067."
+  },
+  {
+    "product_name": "Case for iPad Pro 12.9 2022/2021/2020/2018, Blue Flowers Shockproof Protective Case for iPad Pro 12.9 6th/5th/4th/3rd Gen, [Auto Sleep/Wake] [with Pencil Holder] Adjustable Stand iPad Case Folio Cover",
+    "co2e_kg": 3.5,
+    "explanation": "The total CO2e emissions are calculated as follows: 1) Material extraction and processing (Scope 3 upstream) contributes ~0.5 kg CO2e/kg, based on weighted material impacts (PU leather: 0.6 kg, TPU: 0.24 kg, microfiber: 0.23 kg, others: 0.03 kg). 2) Manufacturing emissions (Scope 1 & 2) are 2.8 kg CO2e/kg as provided. 3) Transportation and distribution (Scope 3 upstream & downstream) adds ~0.1 kg CO2e/kg, assuming regional shipping by road. 4) End-of-life disposal (Scope 3 downstream) contributes ~0.1 kg CO2e/kg, assuming landfill for non-recyclable materials (PU/TPU). The sum (0.5 + 2.8 + 0.1 + 0.1) = 3.5 kg CO2e per product (weight: 1.19 lbs ≈ 0.54 kg). Calculations follow GHG Protocol Product Standard for system boundaries, ISO 14044 for inventory analysis, and PAS 2050 for emission factors."
+  },
+  {
+    "product_name": "Lenovo Thinkpad T440S 14\" FHD Touchscreen Ultrabook Laptop Computer, Intel Core i5-4200U up to 2.6GHz, 8GB RAM, 240GB SSD, WiFi, Bluetooth, USB 3.0, Windows 10 Professional (Renewed)",
+    "co2e_kg": 180.5,
+    "explanation": "The total CO2e emissions are calculated by summing emissions across all life cycle stages, following GHG Protocol Product Standard and ISO 14040/14044. Manufacturing emissions (120 kg CO2e) are provided, covering material extraction, processing, and assembly (Scope 1, 2, and 3 upstream). Transportation and distribution (Scope 3 upstream/downstream) are estimated at 30 kg CO2e, assuming global logistics (air/sea freight) and regional distribution. End-of-life disposal (Scope 3 downstream) is estimated at 30.5 kg CO2e, considering 70% recycling (emission savings) and 30% landfill for materials like metals, plastics, and electronics. Emission factors are sourced from industry averages (PAS 2050) and Ecoinvent database, with GWP values from IPCC AR6. The product's renewed status reduces virgin material use but retains manufacturing impacts."
+  },
+  {
+    "product_name": "Ceeyali Reusable Hook and Loop Fastening Cable Ties Cable Straps for Home Office Tablet PC TV Electronics Wires Organizer Management (15 Pack 8 inch + 15 Pack 12 inch)",
+    "co2e_kg": 6.8,
+    "explanation": "The total CO2e emissions were calculated by summing emissions from material extraction, manufacturing, transportation, and end-of-life disposal, following GHG Protocol Product Standard and ISO 14040/14044. Manufacturing emissions (5.2 kg CO2e) were provided. Material extraction and processing for polyester and nylon were estimated at ~1.0 kg CO2e based on industry averages for textile production. Transportation (assuming regional distribution by truck) added ~0.5 kg CO2e. End-of-life (landfill, as no recycling data was available) contributed ~0.1 kg CO2e. The reusable design reduces per-use impact compared to single-use alternatives, but material production dominates the footprint (PAS 2050). All values converted to CO2e using IPCC AR5 GWPs."
+  },
+  {
+    "product_name": "HYS 3.5mm Police Listen Only Acoustic Tube Earpiece with One Pair Medium Earmolds for Speaker Mics",
+    "co2e_kg": 0.85,
+    "explanation": "The total CO2e emissions are calculated by summing emissions across all life cycle stages, following GHG Protocol Product Standard and ISO 14040/14044. Manufacturing emissions (0.45 kg CO2e) are provided, based on energy-intensive molding processes for silicone/rubber (60%/30%) and plastic (10%). Material extraction/processing (Scope 3) is estimated at ~0.25 kg CO2e, using industry averages for silicone (2.5 kg CO2e/kg), rubber (3 kg CO2e/kg), and plastic (5 kg CO2e/kg) with a product weight of 0.018 kg. Transportation (Scope 3) is estimated at ~0.1 kg CO2e, assuming air freight from China (emission factor: 0.6 kg CO2e/kg*km for ~8000 km). End-of-life (Scope 3) is ~0.05 kg CO2e, assuming landfill disposal (emission factor: 0.1 kg CO2e/kg for non-recycled rubber/silicone). All values are converted to CO2e using GWP factors from IPCC AR5, per PAS 2050 and ISO/TS 14067."
+  },
+  {
+    "product_name": "ASUS VivoBook Thin and Light Laptop, 15.6\" HD Display, Intel Core i3-1005G1 Processor, USB Type-C, Webcam, Wi-Fi, HDMI, Windows 11 Home, Gray (12GB RAM | 256GB SSD)",
+    "co2e_kg": 300.0,
+    "explanation": "The total CO2e emissions are calculated by summing emissions across all life cycle stages, following GHG Protocol, ISO 14040/14044, PAS 2050, and ISO/TS 14067. Manufacturing emissions (250 kg CO2e) are provided, covering Scope 1 & 2. Material extraction (Scope 3 upstream) is estimated at 30 kg CO2e, based on material composition and industry averages (e.g., aluminum at ~8-12 kg CO2e/kg, plastics at ~3-5 kg CO2e/kg). Transportation and distribution (Scope 3 upstream/downstream) add 15 kg CO2e, assuming global shipping and regional logistics. End-of-life disposal (Scope 3 downstream) contributes 5 kg CO2e, accounting for recycling (50%) and landfill (50%) scenarios. The total (300 kg CO2e) aligns with industry benchmarks for similar laptops (250-350 kg CO2e)."
+  },
+  {
+    "product_name": "SMDV Diffuser-50 -- Professional 20x20\" Rigid Softbox for Canon Flash",
+    "co2e_kg": 15.2,
+    "explanation": "The total CO2e emissions were calculated following GHG Protocol Product Standard, ISO 14040/14044, PAS 2050, and ISO/TS 14067. Manufacturing emissions (12.5 kg CO2e) were provided. Transportation was estimated at 1.5 kg CO2e (assuming 500 km by truck, 0.3 kg CO2e/ton-km, product weight 1.2 kg). Material extraction/processing added 0.7 kg CO2e (weighted average of nylon, fiberglass, and metal upstream impacts). End-of-life disposal was estimated at 0.5 kg CO2e (50% landfill, 50% recycling for mixed materials). All values were converted to CO2e using IPCC AR6 GWP factors. System boundaries included all relevant Scope 1, 2, and 3 emissions."
+  },
+  {
+    "product_name": "RasTech Raspberry Pi 3 Model B+ Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Micro SDHC Card, Cooling Fan, HDMI Cable, Network Cable, Hestsinks, Card Reader, Screwdriver",
+    "co2e_kg": 15.8,
+    "explanation": "The total CO2e emissions of 15.8 kg per unit are calculated as follows, following GHG Protocol Product Standard, ISO 14040/14044, PAS 2050, and ISO/TS 14067: 1) Manufacturing emissions (12.5 kg CO2e) are taken directly from the provided data, covering Scope 1 & 2 emissions from production processes. 2) Material extraction and processing (Scope 3 upstream) adds ~2.0 kg CO2e, estimated based on material composition (40% FR4, 20% copper, etc.) and typical emission factors for electronics materials. 3) Transportation and distribution (Scope 3 upstream/downstream) adds ~0.8 kg CO2e, assuming air freight from Asia to North America and local distribution. 4) End-of-life disposal (Scope 3 downstream) contributes ~0.5 kg CO2e, based on typical e-waste recycling emissions for small electronics. The calculation uses default emission factors from Ecoinvent and industry averages where specific data was unavailable, with all GHG emissions converted to CO2e using IPCC AR6 GWP values."
+  },
+  {
+    "product_name": "USB 3.0 Extension Cable 20Ft, TanGuYu USB 3.0 Extender Cord Type A Male to A Female for Oculus VR, Playstation, Xbox, USB Flash Drive, Card Reader, Hard Drive,Keyboard, Printer, Scanner, Camera",
+    "co2e_kg": 2.5,
+    "explanation": "The total CO2e emissions for the USB 3.0 extension cable are estimated at 2.5 kg per unit, following GHG Protocol Product Standard, ISO 14040/14044, PAS 2050, and ISO/TS 14067. This includes: 1) Material extraction and processing (Scope 3 upstream) contributing ~1.8 kg CO2e (copper, PVC, gold, aluminum, and polyester/nylon). 2) Manufacturing emissions (Scope 1 & 2) at 1.8 kg CO2e, as provided. 3) Transportation and distribution (Scope 3 upstream & downstream) estimated at ~0.2 kg CO2e, assuming average shipping distances and modes. 4) End-of-life disposal (Scope 3 downstream) estimated at ~0.1 kg CO2e, considering landfill and recycling scenarios. The calculation uses standard emission factors for each material and process, with manufacturing being the dominant contributor (72% of total impact)."
+  }
+]

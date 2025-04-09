@@ -1,0 +1,52 @@
+[
+  {
+    "product_name": "KALANDO Wireless Bluetooth Colorful LED Water Speaker with Dancing Fountain Light Show Sound for PC, MP3 Player, Laptops, Smartphone Black",
+    "co2e_kg": 11.039,
+    "explanation": "The estimated total CO2e emissions for the product over its life cycle is approximately 11.039 kg, with the use phase being the most significant contributor due to energy consumption during operation."
+  },
+  {
+    "product_name": "Diamond ATI Radeon HD5870 Eyefinity 6 Edition 2048 MB GDDR5 PCI-Express Video Card 5870PE52G",
+    "co2e_kg": 762.7,
+    "explanation": "The estimated CO2e emissions for the Diamond ATI Radeon HD5870 Eyefinity 6 Edition graphics card over its life cycle is approximately 762.7 kg. This includes emissions from production (around 75 kg CO2e), use phase over 5 years (approximately 686.2 kg CO2e), and end-of-life disposal (assumed negligible at around 1.5 kg CO2e). The use phase dominates the emissions due to the card's power consumption and assumed usage pattern."
+  },
+  {
+    "product_name": "Case for iPad Pro 12.9 2022/2021/2020/2018, Blue Flowers Shockproof Protective Case for iPad Pro 12.9 6th/5th/4th/3rd Gen, [Auto Sleep/Wake] [with Pencil Holder] Adjustable Stand iPad Case Folio Cover",
+    "co2e_kg": 3.402,
+    "explanation": "The CO2e estimation is based on the assumed material composition (PU leather, microfiber, and TPU) and their respective emission factors. The total weight of the case is 0.54 kg, with an estimated breakdown into 0.27 kg PU leather, 0.135 kg microfiber, and 0.135 kg TPU. Emission factors used are 5 kg CO2e/kg for PU leather and microfiber, and 6 kg CO2e/kg for TPU. The total CO2e for material production is calculated as 2.835 kg CO2e. An additional 20% is added to account for transportation, use, and end-of-life phases, resulting in a total of 3.402 kg CO2e."
+  },
+  {
+    "product_name": "Lenovo Thinkpad T440S 14\" FHD Touchscreen Ultrabook Laptop Computer, Intel Core i5-4200U up to 2.6GHz, 8GB RAM, 240GB SSD, WiFi, Bluetooth, USB 3.0, Windows 10 Professional (Renewed)",
+    "co2e_kg": 446.72,
+    "explanation": "The estimated CO2e emissions for the Lenovo Thinkpad T440S laptop over its life cycle are approximately 446.72 kg. This includes around 400 kg CO2e for the production phase, considering the manufacturing of its components and the device itself, and about 46.72 kg CO2e for the use phase over a 4-year lifespan, assuming average usage patterns and electricity grid emissions. The end-of-life phase is considered to have a negligible net impact for the purpose of this estimation."
+  },
+  {
+    "product_name": "Ceeyali Reusable Hook and Loop Fastening Cable Ties Cable Straps for Home Office Tablet PC TV Electronics Wires Organizer Management (15 Pack 8 inch + 15 Pack 12 inch)",
+    "co2e_kg": 0.91,
+    "explanation": "The CO2e estimate is based on the product's material weight and type, assuming it's made from synthetic fabric. The calculation considers material production emissions and approximates other life cycle phases by doubling the material production emissions."
+  },
+  {
+    "product_name": "HYS 3.5mm Police Listen Only Acoustic Tube Earpiece with One Pair Medium Earmolds for Speaker Mics",
+    "co2e_kg": 0.073,
+    "explanation": "The estimated CO2e emissions for the product are based on production and transportation. Production emissions are calculated using an average emission factor for rubber products (3.5 kg CO2e/kg). Transportation emissions are estimated based on sea freight from China to the USA, using the package weight and a distance of 10,000 km. The use and end-of-life phases are considered to have negligible emissions."
+  },
+  {
+    "product_name": "ASUS VivoBook Thin and Light Laptop, 15.6\" HD Display, Intel Core i3-1005G1 Processor, USB Type-C, Webcam, Wi-Fi, HDMI, Windows 11 Home, Gray (12GB RAM | 256GB SSD)",
+    "co2e_kg": 362.78,
+    "explanation": "The estimated total CO2e emissions for the ASUS VivoBook laptop over its life cycle is approximately 362.78 kg CO2e, with the production phase contributing around 300 kg CO2e and the use phase contributing around 62.78 kg CO2e, based on assumptions of average power consumption, usage patterns, and emission factors for production and electricity generation."
+  },
+  {
+    "product_name": "SMDV Diffuser-50 -- Professional 20x20\" Rigid Softbox for Canon Flash",
+    "co2e_kg": 7.53,
+    "explanation": "The CO2e emissions for the SMDV Diffuser-50 are estimated to be approximately 7.53 kg. This estimate is based on the production of raw materials (nylon, fiberglass, and metal/plastic parts), manufacturing processes, and transportation from Asia to the US. The use phase and end-of-life disposal are assumed to have minimal direct emissions. The raw materials contribute the most to the total CO2e, primarily due to the energy-intensive production of nylon and, to a lesser extent, fiberglass and metal/plastic parts."
+  },
+  {
+    "product_name": "RasTech Raspberry Pi 3 Model B+ Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Micro SDHC Card, Cooling Fan, HDMI Cable, Network Cable, Hestsinks, Card Reader, Screwdriver",
+    "co2e_kg": 45.9,
+    "explanation": "The estimated CO2e emissions for the RasTech Raspberry Pi 3 Model B+ Starter Kit are approximately 45.9 kg. This includes emissions from the production of the Raspberry Pi board, accessories, and the use phase over an assumed 5-year lifespan. The production phase contributes about 30.2 kg CO2e, primarily from the Raspberry Pi board and other components. The use phase contributes around 15.7 kg CO2e, based on an assumed average power consumption and usage pattern."
+  },
+  {
+    "product_name": "USB 3.0 Extension Cable 20Ft, TanGuYu USB 3.0 Extender Cord Type A Male to A Female for Oculus VR, Playstation, Xbox, USB Flash Drive, Card Reader, Hard Drive,Keyboard, Printer, Scanner, Camera",
+    "co2e_kg": 0.771,
+    "explanation": "The CO2e emissions for the USB 3.0 Extension Cable were estimated by considering the raw materials (copper, PVC, and other materials), manufacturing, transportation, and end-of-life phases. The total weight of the cable is approximately 200 grams, with a breakdown into 60g copper, 120g PVC, and 20g other materials. Emission factors for copper and PVC were used to estimate the CO2e for raw materials, and an additional 50% was added to account for manufacturing, transportation, and end-of-life phases."
+  }
+]

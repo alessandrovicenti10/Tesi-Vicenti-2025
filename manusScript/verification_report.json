@@ -1,0 +1,43 @@
+{
+  "total_products": 1021,
+  "average_co2e_per_kg": 159.04,
+  "min_co2e_per_kg": 12.9,
+  "max_co2e_per_kg": 275.4,
+  "distribution_percentages": {
+    "0-50": 38.295788442703234,
+    "50-100": 0.0979431929480901,
+    "100-150": 14.691478942213514,
+    "150-200": 0.2938295788442703,
+    "200-250": 0.0,
+    "250-300": 46.62095984329089,
+    "300+": 0.0
+  },
+  "samples": [
+    {
+      "product_name": "Microlab M700U Acoustic Hifi Subwoofer Speaker Home Theater Audio Amplifier Multimedia System 2.1 Super Bass Power 46Watts with USB, SD Card, FM Radio multifunctional compatible with SONY, Pioneer, JBL, Bose, Yamaha",
+      "co2e_per_kg": 33.0,
+      "explanation": "Stima basata su peso effettivo di 6.8039 kg, categoria 'speakers'. Fattore di emissione: 33.0 kg CO2e/kg."
+    },
+    {
+      "product_name": "YiwerDer 20Pcs Antistatic Resealable Large Size Bag 22X24cm/8.6X9.4inch, Premium Anti Static Bag for Motherboard HDD and Other Electronic Devices",
+      "co2e_per_kg": 273.0,
+      "explanation": "Stima basata su peso effettivo di 0.2041 kg, categoria 'laptops' e materiale 'Polyethylene'. Fattore di emissione: 273.0 kg CO2e/kg."
+    },
+    {
+      "product_name": "SANZIE Storage Box Holder & Tablet Stand Organizer for Bedroom & Desktop Compartments Hold iPad Phones Wallet Remote Controls Reading Glasses Notepads & Pens (Walnut)",
+      "co2e_per_kg": 272.17,
+      "explanation": "Stima basata su peso effettivo di 1.0886 kg, categoria 'laptops' e materiale 'Wooden'. Fattore di emissione: 272.17 kg CO2e/kg."
+    },
+    {
+      "product_name": "Amzpas Silicone Replacement Bands for Amazfit band 5/Amazfit band 6, 3 Pack Adjustable Wristbands for Xiaomi Mi Band 5/Mi Band 6 for Women Men",
+      "co2e_per_kg": 17.0,
+      "explanation": "Stima basata su peso stimato di 1.1688 kg (media della categoria), categoria 'accessories'. Fattore di emissione: 17.0 kg CO2e/kg."
+    },
+    {
+      "product_name": "DreamGear i.View A/V Pro Cable for iPod Video/Photo",
+      "co2e_per_kg": 17.0,
+      "explanation": "Stima basata su peso effettivo di 0.1361 kg, categoria 'accessories'. Fattore di emissione: 17.0 kg CO2e/kg."
+    }
+  ],
+  "anomalies": []
+}

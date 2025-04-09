@@ -1,0 +1,52 @@
+[
+  {
+    "product_name": "KALANDO Wireless Bluetooth Colorful LED Water Speaker with Dancing Fountain Light Show Sound for PC, MP3 Player, Laptops, Smartphone Black",
+    "co2e_kg": 12.5,
+    "explanation": "The estimated CO2e emissions are based on common emission factors for the materials listed (Plastic: ~3.5 kg CO2e/kg, Rubber/Silicone: ~2.5 kg CO2e/kg, Metals: ~8 kg CO2e/kg, Glass: ~1.2 kg CO2e/kg, Electronics: ~15 kg CO2e/kg, Other: ~5 kg CO2e/kg) and the product weight of 1.11 pounds (~0.5 kg). The total is weighted by material composition percentages and includes manufacturing, transportation, and assembly impacts typical for small electronic devices."
+  },
+  {
+    "product_name": "Diamond ATI Radeon HD5870 Eyefinity 6 Edition 2048 MB GDDR5 PCI-Express Video Card 5870PE52G",
+    "co2e_kg": 45.2,
+    "explanation": "The CO2e emissions were estimated based on the material composition and typical emission factors for each material. Plastic (30%) contributes approximately 1.2 kg CO2e/kg, Aluminum (25%) contributes 8.1 kg CO2e/kg, Copper (20%) contributes 2.6 kg CO2e/kg, Silicon (15%) contributes 1.5 kg CO2e/kg, Gold (5%) contributes 12.0 kg CO2e/kg, and Other metals (5%) contribute 2.0 kg CO2e/kg. The total weight of the product is 2.16 pounds (0.98 kg). The emissions were calculated by multiplying the percentage of each material by its emission factor and the total weight, then summing the results."
+  },
+  {
+    "product_name": "Case for iPad Pro 12.9 2022/2021/2020/2018, Blue Flowers Shockproof Protective Case for iPad Pro 12.9 6th/5th/4th/3rd Gen, [Auto Sleep/Wake] [with Pencil Holder] Adjustable Stand iPad Case Folio Cover",
+    "co2e_kg": 2.5,
+    "explanation": "The estimated CO2e emissions are based on the material composition of the product, which includes PU Leather (50%), TPU (30%), Microfiber (15%), and other materials (5%). Emission factors for these materials were used to calculate the total impact. PU Leather has an estimated emission factor of 3.0 kg CO2e/kg, TPU around 5.0 kg CO2e/kg, and Microfiber approximately 2.0 kg CO2e/kg. The product weight is 1.19 pounds (0.54 kg), and the total emissions were calculated by weighting the emission factors by the material percentages and the product weight. Additional emissions from manufacturing, transportation, and end-of-life were not included in this estimate."
+  },
+  {
+    "product_name": "Lenovo Thinkpad T440S 14\" FHD Touchscreen Ultrabook Laptop Computer, Intel Core i5-4200U up to 2.6GHz, 8GB RAM, 240GB SSD, WiFi, Bluetooth, USB 3.0, Windows 10 Professional (Renewed)",
+    "co2e_kg": 300,
+    "explanation": "The estimated CO2e emissions are based on the material composition and typical emission factors for each material. Aluminum (30%) and plastic (25%) are the primary contributors, with additional emissions from glass, steel, copper, silicon, lithium, and other materials. The total weight of the laptop (1.58 kg) and average emission factors for electronics manufacturing (approx. 190 kg CO2e/kg) were considered, along with a reduction factor for being a renewed product."
+  },
+  {
+    "product_name": "Ceeyali Reusable Hook and Loop Fastening Cable Ties Cable Straps for Home Office Tablet PC TV Electronics Wires Organizer Management (15 Pack 8 inch + 15 Pack 12 inch)",
+    "co2e_kg": 0.45,
+    "explanation": "The estimated CO2e emissions are based on the material composition provided (80% fabric, 15% plastic, 5% adhesive) and common emission factors for these materials. Fabric (Hook and Loop Fastening) has an approximate emission factor of 5 kg CO2e/kg, plastic (reinforcement/closure) around 3 kg CO2e/kg, and adhesive (backing/closure) around 4 kg CO2e/kg. The total weight of the product is 3.2 ounces (0.09 kg). The calculation assumes a weighted average of these materials and their respective emission factors, resulting in an estimated total of 0.45 kg CO2e for the product."
+  },
+  {
+    "product_name": "HYS 3.5mm Police Listen Only Acoustic Tube Earpiece with One Pair Medium Earmolds for Speaker Mics",
+    "co2e_kg": 1.2,
+    "explanation": "The estimated CO2e emissions are based on common emission factors for the materials listed (Rubber: ~2 kg CO2e/kg, Plastic: ~3 kg CO2e/kg, Metal: ~5 kg CO2e/kg, Silicone: ~4 kg CO2e/kg). The product's small size (0.04 lbs or ~0.018 kg) and material composition suggest low total emissions. The calculation assumes manufacturing in China with typical energy mix and transportation impacts included."
+  },
+  {
+    "product_name": "ASUS VivoBook Thin and Light Laptop, 15.6\" HD Display, Intel Core i3-1005G1 Processor, USB Type-C, Webcam, Wi-Fi, HDMI, Windows 11 Home, Gray (12GB RAM | 256GB SSD)",
+    "co2e_kg": 350,
+    "explanation": "The estimated CO2e emissions are based on the material composition and typical emission factors for each material. The laptop's main components include aluminum (30%), plastic (25%), glass (10%), copper (8%), steel (7%), silicon (6%), lithium (5%), other metals (4%), rubber/elastomers (3%), and ceramics (2%). The production of these materials, especially aluminum and plastics, contributes significantly to the total emissions. Additionally, the manufacturing process, assembly, and transportation of the laptop add to the overall carbon footprint. The estimated value of 350 kg CO2e is a rough approximation considering the average emissions for similar laptops in the market."
+  },
+  {
+    "product_name": "SMDV Diffuser-50 -- Professional 20x20\" Rigid Softbox for Canon Flash",
+    "co2e_kg": 5.2,
+    "explanation": "The estimated CO2e emissions are based on the material composition and typical emission factors for each material. Rip stop nylon (50%) has an emission factor of approximately 5 kg CO2e/kg, fiberglass (30%) around 3.5 kg CO2e/kg, silver coating (10%) about 20 kg CO2e/kg, and metal components (10%) roughly 8 kg CO2e/kg. The total weight of the product is 2.65 pounds (1.2 kg). The calculation is as follows: (0.5*5 + 0.3*3.5 + 0.1*20 + 0.1*8) * 1.2 kg = 5.2 kg CO2e."
+  },
+  {
+    "product_name": "RasTech Raspberry Pi 3 Model B+ Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Micro SDHC Card, Cooling Fan, HDMI Cable, Network Cable, Hestsinks, Card Reader, Screwdriver",
+    "co2e_kg": 12.5,
+    "explanation": "The estimated CO2e emissions are based on the material composition and typical emission factors for each material. Plastic (40%) contributes approximately 4 kg CO2e (10 kg CO2e per kg of plastic), Metal (30%) contributes 3 kg CO2e (10 kg CO2e per kg of metal), Silicon (15%) contributes 1.5 kg CO2e (10 kg CO2e per kg of silicon), Glass (5%) contributes 0.5 kg CO2e (10 kg CO2e per kg of glass), Rubber (5%) contributes 0.5 kg CO2e (10 kg CO2e per kg of rubber), and Other (5%) contributes 0.5 kg CO2e (10 kg CO2e per kg of other materials). The total is adjusted for the product's weight (13.7 oz ≈ 0.39 kg) and scaled to reflect the complexity of electronic components."
+  },
+  {
+    "product_name": "USB 3.0 Extension Cable 20Ft, TanGuYu USB 3.0 Extender Cord Type A Male to A Female for Oculus VR, Playstation, Xbox, USB Flash Drive, Card Reader, Hard Drive,Keyboard, Printer, Scanner, Camera",
+    "co2e_kg": 1.8,
+    "explanation": "The estimated CO2e emissions for the USB 3.0 extension cable are based on the material composition and typical emission factors for each material. PVC (45%) has an emission factor of approximately 2.5 kg CO2e/kg, copper (30%) around 4 kg CO2e/kg, tin (5%) about 20 kg CO2e/kg, gold (1%) roughly 12,000 kg CO2e/kg (though the amount used is minimal), aluminum (10%) around 8 kg CO2e/kg, polyester (5%) approximately 5 kg CO2e/kg, and other materials (4%) estimated at 3 kg CO2e/kg. The total weight of the cable is 7 ounces (0.198 kg). The calculation combines these factors, weighted by their percentages, to arrive at the total emissions."
+  }
+]

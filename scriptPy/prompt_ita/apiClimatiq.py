@@ -2,7 +2,7 @@ import requests
 import json
 
 # Imposta la tua API Key
-API_KEY = "W76RQY11KN68Z9759W0FKFMDVW"
+API_KEY = "api_key"
 API_URL = "https://api.climatiq.io/data/v1/search"
 
 # Materiale da cercare (ad esempio "steel")

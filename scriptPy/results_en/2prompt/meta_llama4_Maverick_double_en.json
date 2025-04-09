@@ -1,0 +1,52 @@
+[
+  {
+    "product_name": "KALANDO Wireless Bluetooth Colorful LED Water Speaker with Dancing Fountain Light Show Sound for PC, MP3 Player, Laptops, Smartphone Black",
+    "co2e_kg": 3.0,
+    "explanation": "Estimated CO2e emissions based on material composition and typical emission factors for each material."
+  },
+  {
+    "product_name": "Diamond ATI Radeon HD5870 Eyefinity 6 Edition 2048 MB GDDR5 PCI-Express Video Card 5870PE52G",
+    "co2e_kg": 16.61,
+    "explanation": "Estimated total CO2e emissions based on material composition and general emission factors."
+  },
+  {
+    "product_name": "Case for iPad Pro 12.9 2022/2021/2020/2018, Blue Flowers Shockproof Protective Case for iPad Pro 12.9 6th/5th/4th/3rd Gen, [Auto Sleep/Wake] [with Pencil Holder] Adjustable Stand iPad Case Folio Cover",
+    "co2e_kg": 4.32,
+    "explanation": "Estimated total CO2e emissions based on material composition and general emission factors. The product weighs 0.54 kg, with the majority of emissions coming from PU Leather."
+  },
+  {
+    "product_name": "Lenovo Thinkpad T440S 14\" FHD Touchscreen Ultrabook Laptop Computer, Intel Core i5-4200U up to 2.6GHz, 8GB RAM, 240GB SSD, WiFi, Bluetooth, USB 3.0, Windows 10 Professional (Renewed)",
+    "co2e_kg": 27.24,
+    "explanation": "Estimated total CO2e emissions based on material composition and general emission factors for the Lenovo Thinkpad T440S laptop."
+  },
+  {
+    "product_name": "Ceeyali Reusable Hook and Loop Fastening Cable Ties Cable Straps for Home Office Tablet PC TV Electronics Wires Organizer Management (15 Pack 8 inch + 15 Pack 12 inch)",
+    "co2e_kg": 0.327,
+    "explanation": "Estimated total CO2e emissions based on material composition and weight. Fabric, plastic, and other components contribute to the overall emissions."
+  },
+  {
+    "product_name": "HYS 3.5mm Police Listen Only Acoustic Tube Earpiece with One Pair Medium Earmolds for Speaker Mics",
+    "co2e_kg": 0.068,
+    "explanation": "Estimated CO2e emissions based on material composition and average emission factors for silicone, copper, plastic, PVC, and other metals."
+  },
+  {
+    "product_name": "ASUS VivoBook Thin and Light Laptop, 15.6\" HD Display, Intel Core i3-1005G1 Processor, USB Type-C, Webcam, Wi-Fi, HDMI, Windows 11 Home, Gray (12GB RAM | 256GB SSD)",
+    "co2e_kg": 26,
+    "explanation": "Estimated total CO2e emissions based on material composition and average emission factors for the ASUS VivoBook laptop."
+  },
+  {
+    "product_name": "SMDV Diffuser-50 -- Professional 20x20\" Rigid Softbox for Canon Flash",
+    "co2e_kg": 95.07,
+    "explanation": "The total CO2e emissions for the SMDV Diffuser-50 is estimated to be approximately 95.07 kg. The silver coating, although only 5% of the product's weight, is the largest contributor to the CO2e emissions due to the high emission factor associated with silver production."
+  },
+  {
+    "product_name": "RasTech Raspberry Pi 3 Model B+ Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Micro SDHC Card, Cooling Fan, HDMI Cable, Network Cable, Hestsinks, Card Reader, Screwdriver",
+    "co2e_kg": 7.9,
+    "explanation": "Estimated total CO2e emissions based on material composition and general emission factors. The high impact of gold significantly contributes to the total."
+  },
+  {
+    "product_name": "USB 3.0 Extension Cable 20Ft, TanGuYu USB 3.0 Extender Cord Type A Male to A Female for Oculus VR, Playstation, Xbox, USB Flash Drive, Card Reader, Hard Drive,Keyboard, Printer, Scanner, Camera",
+    "co2e_kg": 3.5,
+    "explanation": "Estimated CO2e emissions based on material composition and average emission factors for each material."
+  }
+]

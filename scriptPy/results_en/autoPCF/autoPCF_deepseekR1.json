@@ -1,0 +1,52 @@
+[
+  {
+    "product_name": "KALANDO Wireless Bluetooth Colorful LED Water Speaker with Dancing Fountain Light Show Sound for PC, MP3 Player, Laptops, Smartphone Black",
+    "co2e_kg": 5.19,
+    "explanation": "Total CO2e calculated by summing emissions from material extraction (2.39 kg, using standard EF: ABS=3.5, PMMA=5, metals=8, rubber=3, PCBs=12 kg CO2e/kg), manufacturing (2.5 kg given), transportation (0.2 kg estimated via sea/land freight), and EOL (0.1 kg landfill assumption). Aligns with GHG Protocol & ISO 14044 system boundaries, PAS 2050 emission factors, and ISO/TS 14067 allocation methods."
+  },
+  {
+    "product_name": "Diamond ATI Radeon HD5870 Eyefinity 6 Edition 2048 MB GDDR5 PCI-Express Video Card 5870PE52G",
+    "co2e_kg": 27.5,
+    "explanation": "Calculations include: 1) Manufacturing (25 kg CO2e) covering material processing and assembly per provided data. 2) Transportation (0.3 kg) via sea/road using 0.01 kg CO2e/kg-km factors. 3) Distribution (1.2 kg) at 5% of manufacturing. 4) End-of-life (1.0 kg) assuming mixed disposal. Follows GHG Protocol system boundaries, ISO 14044 inventory analysis, and PAS 2050 conversion methods. Assumes typical emission factors for electronics logistics and conservative EOL estimates where recycling benefits offset partial impacts."
+  },
+  {
+    "product_name": "Case for iPad Pro 12.9 2022/2021/2020/2018, Blue Flowers Shockproof Protective Case for iPad Pro 12.9 6th/5th/4th/3rd Gen, [Auto Sleep/Wake] [with Pencil Holder] Adjustable Stand iPad Case Folio Cover",
+    "co2e_kg": 4.3,
+    "explanation": "Total emissions calculated per ISO 14044 and PAS 2050 system boundaries: 1) Materials & manufacturing (4.1 kg CO2e) includes PU leather, TPU, and microfiber production (Scope 3) plus processing (Scope 1-2). 2) Added transport (0.1 kg CO2e) via sea/truck using DEFRA emission factors (0.01 kg CO2e/tkm). 3) End-of-life (0.1 kg CO2e) assumes 90% landfill (0.05 kg CO2e/kg) and 10% incineration (3 kg CO2e/kg). All values converted to CO2e using IPCC AR6 GWPs."
+  },
+  {
+    "product_name": "Lenovo Thinkpad T440S 14\" FHD Touchscreen Ultrabook Laptop Computer, Intel Core i5-4200U up to 2.6GHz, 8GB RAM, 240GB SSD, WiFi, Bluetooth, USB 3.0, Windows 10 Professional (Renewed)",
+    "co2e_kg": 136.3,
+    "explanation": "Total CO2e calculated using provided manufacturing emissions (125 kg, covering material extraction & processing [70-80%] and assembly [20-30%], aligned with GHG Protocol Scopes 1-3). Added 5% (6.25 kg) for transportation (Scope 3 upstream/downstream) and 5 kg for end-of-life disposal (Scope 3 downstream), based on industry averages for electronics logistics and recycling. Calculations follow ISO 14044 allocation principles and PAS 2050 requirements for full lifecycle inclusion."
+  },
+  {
+    "product_name": "Ceeyali Reusable Hook and Loop Fastening Cable Ties Cable Straps for Home Office Tablet PC TV Electronics Wires Organizer Management (15 Pack 8 inch + 15 Pack 12 inch)",
+    "co2e_kg": 0.9,
+    "explanation": "Total calculated as: Manufacturing (0.8 kg - includes material production & processing per GHG Protocol Scope 3 upstream and Scope 1/2) + Transportation (0.02 kg - sea/land logistics for 0.09 kg product from China to US, using ISO 14044 transport factors) + End-of-Life (0.08 kg - 30% incineration/70% landfill assumption for synthetic textiles per PAS 2050). Manufacturing dominates due to energy-intensive polymer processing. Transport minimal due to lightweight product. EOL varies by disposal method but remains secondary."
+  },
+  {
+    "product_name": "HYS 3.5mm Police Listen Only Acoustic Tube Earpiece with One Pair Medium Earmolds for Speaker Mics",
+    "co2e_kg": 0.41,
+    "explanation": "Total emissions include: 1) Manufacturing (0.35 kg CO2e) covering material processing (silicone/PVC molding, metal/copper refining) and assembly per provided data. 2) Transportation: Estimated 0.01 kg CO2e via sea freight (0.07 kg package weight * 10,000 km * 0.01 kg CO2e/ton-km). 3) End-of-life: 0.05 kg CO2e assuming mixed disposal (PVC/silicone incineration). Follows GHG Protocol system boundaries and ISO 14044 allocation methods, using conservative estimates for missing data points."
+  },
+  {
+    "product_name": "ASUS VivoBook Thin and Light Laptop, 15.6\" HD Display, Intel Core i3-1005G1 Processor, USB Type-C, Webcam, Wi-Fi, HDMI, Windows 11 Home, Gray (12GB RAM | 256GB SSD)",
+    "co2e_kg": 27.5,
+    "explanation": "Total CO2e calculated per GHG Protocol & ISO 14044 system boundaries. Includes: 1) Manufacturing (25 kg, covering material extraction/processing and assembly per provided data); 2) Transportation (2 kg estimated via average logistics emissions for global electronics distribution); 3) End-of-life (0.5 kg based on PAS 2050 disposal assumptions). Excludes use phase as per defined boundaries. Emission factors aligned with industry averages for electronics where specific data was unavailable."
+  },
+  {
+    "product_name": "SMDV Diffuser-50 -- Professional 20x20\" Rigid Softbox for Canon Flash",
+    "co2e_kg": 7.0,
+    "explanation": "Total emissions include material extraction/processing (Scope 3) and manufacturing (Scopes 1 & 2) as per provided data. Calculations followed ISO 14044 and PAS 2050: Material-specific emission factors (nylon: 5.5 kg CO2e/kg, fiberglass: 2.5 kg CO2e/kg, metal: 15 kg CO2e/kg) were applied to material masses (1.2 kg total product weight). Assembly energy added 15% to material emissions. Transportation, distribution, and end-of-life emissions are excluded due to insufficient data, limiting system boundaries as noted in GHG Protocol Product Standard."
+  },
+  {
+    "product_name": "RasTech Raspberry Pi 3 Model B+ Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Micro SDHC Card, Cooling Fan, HDMI Cable, Network Cable, Hestsinks, Card Reader, Screwdriver",
+    "co2e_kg": 11.2,
+    "explanation": "Total CO2e calculated as: 1. Material extraction (1.5 kg) using material percentages and standard emission factors (FR-4: 3.5 kg/kg, Plastics: 3 kg/kg, Cu: 4 kg/kg, Al: 10 kg/kg). 2. Manufacturing (9.2 kg) provided as Scope 1&2 emissions. 3. Transport (0.3 kg) estimated via sea/land logistics (0.08 kg) + conservative allocation. 4. End-of-life (0.2 kg) assuming partial recycling/landfill. Follows GHG Protocol system boundaries, ISO 14044 inventory allocation, and PAS 2050 conversion methods."
+  },
+  {
+    "product_name": "USB 3.0 Extension Cable 20Ft, TanGuYu USB 3.0 Extender Cord Type A Male to A Female for Oculus VR, Playstation, Xbox, USB Flash Drive, Card Reader, Hard Drive,Keyboard, Printer, Scanner, Camera",
+    "co2e_kg": 6.1,
+    "explanation": "Calculation includes material extraction/processing (Scope 3) and manufacturing (Scope 1-2) based on provided material percentages and manufacturing CO2e (6.1 kg). Gold plating contributes ~25% of total despite 1% mass. Transportation and end-of-life emissions could not be quantified due to missing data (typical 10-20% additional impact for full LCA per ISO 14044). PAS 2050 material-specific factors were applied for copper (5 kg/kg), PVC (3 kg/kg), aluminum (14 kg/kg), brass (5 kg/kg), and gold (150 kg/kg). System boundaries follow GHG Protocol but remain incomplete without logistics and EOL data."
+  }
+]

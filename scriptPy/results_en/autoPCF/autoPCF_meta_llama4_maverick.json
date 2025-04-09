@@ -1,0 +1,52 @@
+[
+  {
+    "product_name": "KALANDO Wireless Bluetooth Colorful LED Water Speaker with Dancing Fountain Light Show Sound for PC, MP3 Player, Laptops, Smartphone Black",
+    "co2e_kg": null,
+    "explanation": null
+  },
+  {
+    "product_name": "Diamond ATI Radeon HD5870 Eyefinity 6 Edition 2048 MB GDDR5 PCI-Express Video Card 5870PE52G",
+    "co2e_kg": 16.83,
+    "explanation": "Estimated total CO2e emissions considering material extraction and processing (5.4 kg CO2e), manufacturing (9.63 kg CO2e), transportation (1.5 kg CO2e), and end-of-life disposal (0.3 kg CO2e), following GHG Protocol Product Standard, ISO 14040/14044 LCA methodology, PAS 2050, and ISO/TS 14067 guidelines."
+  },
+  {
+    "product_name": "Case for iPad Pro 12.9 2022/2021/2020/2018, Blue Flowers Shockproof Protective Case for iPad Pro 12.9 6th/5th/4th/3rd Gen, [Auto Sleep/Wake] [with Pencil Holder] Adjustable Stand iPad Case Folio Cover",
+    "co2e_kg": 8.81,
+    "explanation": "Calculated following GHG Protocol Product Standard, ISO 14040/14044 LCA methodology, PAS 2050, and ISO/TS 14067. Includes material extraction and processing (7.358 kg CO2e), manufacturing emissions (1.104 kg CO2e), transportation (0.27 kg CO2e), and end-of-life disposal (0.081 kg CO2e) for a 0.54 kg product."
+  },
+  {
+    "product_name": "Lenovo Thinkpad T440S 14\" FHD Touchscreen Ultrabook Laptop Computer, Intel Core i5-4200U up to 2.6GHz, 8GB RAM, 240GB SSD, WiFi, Bluetooth, USB 3.0, Windows 10 Professional (Renewed)",
+    "co2e_kg": 225.0,
+    "explanation": "The total CO2e emissions for the Lenovo Thinkpad T440S laptop is estimated to be around 225 kg CO2e, primarily based on the manufacturing emissions. This estimate follows the GHG Protocol Product Standard, ISO 14040/14044 LCA methodology, PAS 2050, and ISO/TS 14067 guidelines. The actual life cycle emissions may vary depending on transportation, end-of-life disposal, and other factors not detailed here."
+  },
+  {
+    "product_name": "Ceeyali Reusable Hook and Loop Fastening Cable Ties Cable Straps for Home Office Tablet PC TV Electronics Wires Organizer Management (15 Pack 8 inch + 15 Pack 12 inch)",
+    "co2e_kg": 1.03,
+    "explanation": "The total CO2e emissions for the Ceeyali Reusable Hook and Loop Fastening Cable Ties is calculated by summing the emissions from material extraction and processing (0.301 kg CO2e), manufacturing (0.653 kg CO2e), and transportation (0.074 kg CO2e), following the GHG Protocol Product Standard, ISO 14040/14044 LCA methodology, PAS 2050, and ISO/TS 14067 guidelines."
+  },
+  {
+    "product_name": "HYS 3.5mm Police Listen Only Acoustic Tube Earpiece with One Pair Medium Earmolds for Speaker Mics",
+    "co2e_kg": 0.71,
+    "explanation": "Calculated following GHG Protocol Product Standard, ISO 14040/14044 LCA methodology, PAS 2050, and ISO/TS 14067. Assumed material composition, manufacturing energy intensity, transportation distance, and end-of-life disposal emissions. The product's carbon footprint is approximately 0.71 kg CO2e, with significant contributions from manufacturing and transportation."
+  },
+  {
+    "product_name": "ASUS VivoBook Thin and Light Laptop, 15.6\" HD Display, Intel Core i3-1005G1 Processor, USB Type-C, Webcam, Wi-Fi, HDMI, Windows 11 Home, Gray (12GB RAM | 256GB SSD)",
+    "co2e_kg": 31.49,
+    "explanation": "Total CO2e emissions calculated considering material extraction and processing (31.32 kg CO2e), transportation (1.17 kg CO2e), and end-of-life disposal (-1 kg CO2e), following GHG Protocol Product Standard, ISO 14040/14044 LCA methodology, PAS 2050, and ISO/TS 14067 guidelines."
+  },
+  {
+    "product_name": "SMDV Diffuser-50 -- Professional 20x20\" Rigid Softbox for Canon Flash",
+    "co2e_kg": 29.92,
+    "explanation": "The total CO2e emissions per kg of the SMDV Diffuser-50 is calculated to be 29.92 kg CO2e/kg, following GHG Protocol Product Standard, ISO 14040/14044 LCA methodology, PAS 2050, and ISO/TS 14067 guidelines. The calculation includes material extraction and processing, manufacturing, transportation, and end-of-life disposal emissions."
+  },
+  {
+    "product_name": "RasTech Raspberry Pi 3 Model B+ Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Micro SDHC Card, Cooling Fan, HDMI Cable, Network Cable, Hestsinks, Card Reader, Screwdriver",
+    "co2e_kg": null,
+    "explanation": null
+  },
+  {
+    "product_name": "USB 3.0 Extension Cable 20Ft, TanGuYu USB 3.0 Extender Cord Type A Male to A Female for Oculus VR, Playstation, Xbox, USB Flash Drive, Card Reader, Hard Drive,Keyboard, Printer, Scanner, Camera",
+    "co2e_kg": 3.42,
+    "explanation": "Calculation based on material extraction and processing (2.72 kg CO2e), manufacturing (0.6 kg CO2e), transportation (0.04 kg CO2e), and end-of-life disposal (0.06 kg CO2e) for a 0.2 kg USB 3.0 Extension Cable, following GHG Protocol Product Standard, ISO 14040/14044 LCA methodology, PAS 2050, and ISO/TS 14067 guidelines."
+  }
+]

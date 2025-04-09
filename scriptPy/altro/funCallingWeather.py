@@ -10,7 +10,7 @@ def get_weather(latitude, longitude):
     return data['current']['temperature_2m']
 
 # Inizializza il client con la tua API Key
-client = openai.OpenAI(api_key="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")
+client = openai.OpenAI(api_key="api_key")
 
 # Definizione della funzione come tool
 tools = [{

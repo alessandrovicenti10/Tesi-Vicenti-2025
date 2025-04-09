@@ -1,0 +1,102 @@
+[
+  {
+    "product_name": "KALANDO Wireless Bluetooth Colorful LED Water Speaker with Dancing Fountain Light Show Sound for PC, MP3 Player, Laptops, Smartphone Black",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 12.5,\n  \"explanation\": \"Le emissioni di CO2e/kg per questo prodotto sono state calcolate considerando la composizione tipica di un altoparlante Bluetooth con luci LED e fontana d'acqua. I materiali principali includono plastica (circa 70%), componenti elettronici (20%) e metallo (10%). I fattori di emissione utilizzati sono: 3 kg CO2e/kg per la plastica, 10 kg CO2e/kg per i componenti elettronici e 5 kg CO2e/kg per il metallo. Il peso del prodotto è di 0.5 kg (1.11 libbre). La produzione in Cina e il trasporto internazionale contribuiscono ulteriormente alle emissioni totali.\"\n}\n```"
+  },
+  {
+    "product_name": "Diamond ATI Radeon HD5870 Eyefinity 6 Edition 2048 MB GDDR5 PCI-Express Video Card 5870PE52G",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 56.8,\n  \"explanation\": \"Le emissioni di CO2e/kg per questa scheda grafica sono state calcolate considerando i materiali principali e i processi di produzione. La scheda grafica è composta principalmente da plastica (circa 40%), metalli (rame, alluminio, acciaio, circa 50%) e silicio (circa 10%). I fattori di emissione utilizzati sono: 3.5 kg CO2e/kg per la plastica, 6 kg CO2e/kg per i metalli e 10 kg CO2e/kg per il silicio. Sono stati inclusi anche i processi di assemblaggio e trasporto, che contribuiscono con ulteriori 5 kg CO2e. Il peso del prodotto è di 2.16 libbre (circa 0.98 kg), quindi le emissioni totali sono state distribuite su questo peso per ottenere il valore per kg.\"\n}\n```"
+  },
+  {
+    "product_name": "Case for iPad Pro 12.9 2022/2021/2020/2018, Blue Flowers Shockproof Protective Case for iPad Pro 12.9 6th/5th/4th/3rd Gen, [Auto Sleep/Wake] [with Pencil Holder] Adjustable Stand iPad Case Folio Cover",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 3.2,\n  \"explanation\": \"Le emissioni di CO2e/kg per questa custodia per iPad Pro 12.9 sono state calcolate considerando la composizione dei materiali e i processi di produzione. La custodia è composta principalmente da PU (poliuretano) per l'esterno e TPU (poliuretano termoplastico) per l'interno, con una fodera in microfibra. Il PU ha un fattore di emissione di circa 5.2 kg CO2e/kg, mentre il TPU ha circa 3.5 kg CO2e/kg. La microfibra ha un fattore di circa 6.0 kg CO2e/kg. Supponendo una distribuzione approssimativa del 50% PU, 30% TPU e 20% microfibra, e considerando il peso del prodotto (circa 0.54 kg), le emissioni totali sono state stimate in 3.2 kg CO2e/kg. Sono inclusi anche i processi di stampa 3D e assemblaggio, che contribuiscono alle emissioni totali.\"\n}\n```"
+  },
+  {
+    "product_name": "Lenovo Thinkpad T440S 14\" FHD Touchscreen Ultrabook Laptop Computer, Intel Core i5-4200U up to 2.6GHz, 8GB RAM, 240GB SSD, WiFi, Bluetooth, USB 3.0, Windows 10 Professional (Renewed)",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 300,\n  \"explanation\": \"Le emissioni di CO2e/kg per il Lenovo Thinkpad T440S sono state calcolate considerando la composizione tipica di un laptop rinnovato. I principali fattori di emissione includono: 1) Produzione dei componenti (circa 200 kg CO2e/kg, con un peso di 1.58 kg), 2) Assemblaggio e trasporto (circa 50 kg CO2e/kg), 3) Uso energetico durante la vita utile (stimato in 50 kg CO2e/kg per un utilizzo medio di 3 anni). Il prodotto è rinnovato, il che riduce l'impatto rispetto a un nuovo dispositivo, ma include comunque emissioni legate alla rigenerazione e distribuzione.\"\n}\n```"
+  },
+  {
+    "product_name": "Ceeyali Reusable Hook and Loop Fastening Cable Ties Cable Straps for Home Office Tablet PC TV Electronics Wires Organizer Management (15 Pack 8 inch + 15 Pack 12 inch)",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 2.5,\n  \"explanation\": \"Le emissioni di CO2e/kg sono state calcolate considerando la composizione del prodotto, che include principalmente materiali in plastica e tessuto. I fattori di emissione tipici per la plastica (circa 3 kg CO2e/kg) e per il tessuto (circa 2 kg CO2e/kg) sono stati ponderati in base alla probabile percentuale di ciascun materiale nel prodotto. Si è ipotizzato che il prodotto sia composto per il 70% da plastica e per il 30% da tessuto, con un ulteriore contributo minimo derivante dalla produzione e dal trasporto. Il valore finale è una stima basata su questi presupposti.\"\n}\n```"
+  },
+  {
+    "product_name": "HYS 3.5mm Police Listen Only Acoustic Tube Earpiece with One Pair Medium Earmolds for Speaker Mics",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 2.5,\n  \"explanation\": \"Il prodotto è composto principalmente da gomma (rubber) e materiali plastici, con una piccola quantità di metallo per il connettore da 3.5mm. Le emissioni di CO2e sono state calcolate considerando i seguenti fattori: produzione della gomma (1.5 kg CO2e/kg), produzione della plastica (3 kg CO2e/kg), e produzione del metallo (5 kg CO2e/kg). Si stima che il prodotto pesi circa 0.04 libbre (0.018 kg), con una composizione approssimativa del 70% gomma, 25% plastica e 5% metallo. Le emissioni totali sono state calcolate sommando i contributi di ciascun materiale, considerando anche il trasporto dalla Cina (0.1 kg CO2e/kg).\"\n}\n```"
+  },
+  {
+    "product_name": "ASUS VivoBook Thin and Light Laptop, 15.6\" HD Display, Intel Core i3-1005G1 Processor, USB Type-C, Webcam, Wi-Fi, HDMI, Windows 11 Home, Gray (12GB RAM | 256GB SSD)",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 350,\n  \"explanation\": \"Le emissioni di CO2e/kg per questo laptop ASUS VivoBook sono state calcolate considerando i principali componenti e i loro fattori di emissione tipici. La produzione di un laptop comporta emissioni significative, principalmente dovute alla produzione della scheda madre (circa 150 kg CO2e), della RAM (circa 50 kg CO2e per 12GB), dell'SSD (circa 30 kg CO2e per 256GB), dello schermo (circa 50 kg CO2e per un display da 15.6\\\"), della batteria agli ioni di litio (circa 30 kg CO2e) e dell'involucro in plastica e metallo (circa 40 kg CO2e). Il peso totale del laptop è di circa 1.8 kg (3.97 lbs), quindi le emissioni totali sono state distribuite su questo peso per ottenere il valore di 350 kg CO2e/kg. Questo valore include anche una stima delle emissioni legate all'assemblaggio e al trasporto.\"\n}\n```"
+  },
+  {
+    "product_name": "SMDV Diffuser-50 -- Professional 20x20\" Rigid Softbox for Canon Flash",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 12.5,\n  \"explanation\": \"Le emissioni di CO2e/kg sono state calcolate considerando i materiali principali del prodotto: nylon rip-stop (50%), fibra di vetro (30%) e rivestimento in argento (20%). I fattori di emissione utilizzati sono: 5.5 kg CO2e/kg per il nylon rip-stop, 2.0 kg CO2e/kg per la fibra di vetro e 25.0 kg CO2e/kg per il rivestimento in argento. Il peso del prodotto (2.65 libbre ≈ 1.2 kg) è stato utilizzato per normalizzare il risultato. La produzione e il trasporto sono stati inclusi nel calcolo, mentre l'uso e lo smaltimento sono stati esclusi per mancanza di dati specifici.\"\n}\n```"
+  },
+  {
+    "product_name": "RasTech Raspberry Pi 3 Model B+ Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Micro SDHC Card, Cooling Fan, HDMI Cable, Network Cable, Hestsinks, Card Reader, Screwdriver",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 12.5,\n  \"explanation\": \"Le emissioni di CO2e/kg per il RasTech Raspberry Pi 3 Model B+ Starter Kit sono state calcolate considerando i materiali principali e i processi coinvolti nel ciclo di vita del prodotto. La scheda madre (Raspberry Pi 3B+) contribuisce con circa 5 kg CO2e/kg, considerando la produzione di componenti elettronici e semiconduttori. La scheda microSD da 32GB aggiunge circa 2 kg CO2e/kg, mentre l'alimentatore, il cavo HDMI, il cavo di rete e il case contribuiscono con circa 3 kg CO2e/kg in totale, considerando plastica e metalli. I dissipatori e la ventola di raffreddamento aggiungono circa 1 kg CO2e/kg. Il trasporto e l'imballaggio sono stimati a circa 1.5 kg CO2e/kg. La somma di questi contributi porta a un totale di 12.5 kg CO2e/kg per il prodotto.\"\n}\n```"
+  },
+  {
+    "product_name": "USB 3.0 Extension Cable 20Ft, TanGuYu USB 3.0 Extender Cord Type A Male to A Female for Oculus VR, Playstation, Xbox, USB Flash Drive, Card Reader, Hard Drive,Keyboard, Printer, Scanner, Camera",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 2.8,\n  \"explanation\": \"Le emissioni di CO2e/kg per questo cavo USB 3.0 sono state calcolate considerando i materiali principali e i processi di produzione. Il cavo è composto principalmente da PVC (involucro esterno), rame (conduttori), oro (connettori placcati) e materiali di schermatura (foil e treccia metallica). I fattori di emissione tipici per questi materiali sono stati utilizzati: PVC (2.5 kg CO2e/kg), rame (4 kg CO2e/kg), oro (12,000 kg CO2e/kg) e materiali di schermatura (3 kg CO2e/kg). La percentuale stimata di materiali è: PVC (50%), rame (30%), oro (5%) e schermatura (15%). Il peso del prodotto è di 7 once (circa 0.2 kg), quindi le emissioni totali sono state distribuite su questo peso. Sono stati inclusi anche i processi di produzione, assemblaggio e trasporto, che contribuiscono alle emissioni totali.\"\n}\n```"
+  },
+  {
+    "product_name": "HCSOWD Case for iPad 6th/5th Generation Case 9.7 Inch, Magnetic Folio Stand, Auto Sleep/Wake Smart Protective Cover for iPad Pro 9.7/Air2 with Pen Holder and Card Slot, Red",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 3.2,\n  \"explanation\": \"Le emissioni di CO2e/kg sono state calcolate considerando la composizione materiale del prodotto: PU leather (50%), TPU (30%) e PC (20%). I fattori di emissione utilizzati sono: PU leather = 5.0 kg CO2e/kg, TPU = 3.5 kg CO2e/kg, PC = 6.0 kg CO2e/kg. Il peso del prodotto è di 0.42 kg (14.9 once). La stima include anche le emissioni legate alla produzione e al trasporto dalla Cina, con un fattore aggiuntivo del 10% per logistica e imballaggio.\"\n}\n```"
+  },
+  {
+    "product_name": "Comfyable Laptop Sleeve 14 Inch Precisely Compatible with MacBook Pro 14-inch M2 Pro/Max 2023 & Old Versioned 13 Inch MacBook Pro/MacBook Air, Faux Leather Cover Case, 13 in 14 in, Brown",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 3.2,\n  \"explanation\": \"Le emissioni di CO2e/kg per questa custodia per laptop sono state calcolate considerando i materiali principali: pelle sintetica (poliuretano) e feltro. La pelle sintetica ha un fattore di emissione di circa 5 kg CO2e/kg, mentre il feltro (poliestere) ha un fattore di circa 3 kg CO2e/kg. Supponendo che il prodotto sia composto per il 70% da pelle sintetica e per il 30% da feltro, e considerando un peso totale di 7.6 once (circa 0.215 kg), le emissioni totali sono state stimate in 3.2 kg CO2e/kg. Sono inclusi anche i contributi minori della produzione e del trasporto dalla Cina.\"\n}\n```"
+  },
+  {
+    "product_name": "Cat6 Ethernet Cable, 12 Feet (2 Pack) LAN, utp Cat 6, RJ45, Network Cord, Patch, Internet Cable - 12 ft - Black",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 2.8,\n  \"explanation\": \"Le emissioni di CO2e/kg per il cavo Ethernet Cat6 sono state calcolate considerando i materiali principali: rame (24 AWG, 8 conduttori solidi) e PVC (guaina esterna). Il rame ha un fattore di emissione di circa 4 kg CO2e/kg, mentre il PVC circa 3 kg CO2e/kg. Supponendo una composizione del 60% rame e 40% PVC (in peso), e considerando anche l'energia utilizzata nella produzione e nel trasporto, si ottiene un valore medio di 2.8 kg CO2e/kg. La lunghezza del cavo (12 piedi) e il packaging minimo contribuiscono in modo minore alle emissioni totali.\"\n}\n```"
+  },
+  {
+    "product_name": "Laptop Cooling Pad, 12\"-17\" inch Cooler Pad Chill Mat 5 Quiet Fans,Blue LED Lights,2 USB Ports,4 Adjustable Mounts Laptop Stand Height Angle, Switch Control Fan Speed Function",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 3.2,\n  \"explanation\": \"Le emissioni di CO2e/kg per questo laptop cooling pad sono state calcolate considerando i materiali principali: ABS plastica (70%) e metallo (30%). I fattori di emissione utilizzati sono 5 kg CO2e/kg per l'ABS e 2 kg CO2e/kg per il metallo. Il peso del prodotto è di 5.3 once (circa 0.15 kg). La fase di produzione è stata considerata la principale fonte di emissioni, mentre l'uso e lo smaltimento hanno un impatto minore. L'energia utilizzata durante l'uso (alimentazione USB) è stata stimata con un fattore di 0.5 kg CO2e/kWh, considerando un uso medio di 50W per 4 ore al giorno per 3 anni.\"\n}\n```"
+  },
+  {
+    "product_name": "Adesso Xtream H4 - Stereo Headset with Microphone",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 8.2,\n  \"explanation\": \"Le emissioni di CO2e/kg per l'Adesso Xtream H4 sono state calcolate considerando la composizione tipica di un headset stereo con microfono. Si è ipotizzato che il prodotto sia composto principalmente da plastica (70%, fattore di emissione: 5 kg CO2e/kg), metalli (20%, fattore di emissione: 10 kg CO2e/kg) e componenti elettronici (10%, fattore di emissione: 20 kg CO2e/kg). Il peso del prodotto è di circa 0.091 kg (3.21 once). Le emissioni totali sono state calcolate moltiplicando la percentuale di ciascun materiale per il rispettivo fattore di emissione e sommando i contributi. La produzione, il trasporto e lo smaltimento sono stati inclusi nel calcolo, con un contributo aggiuntivo del 10% per queste fasi del ciclo di vita.\"\n}\n```"
+  },
+  {
+    "product_name": "Tenda U1 USB 300Mbit/s - networking cards (White, PC&Notebook, Wired, IEEE 80211b, IEEE 80211g, IEEE 80211n, IEEE 80211b, IEEE 80211g, IEEE 80211n, USB)",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 12.5,\n  \"explanation\": \"Le emissioni di CO2e/kg per la scheda di rete Tenda U1 sono state calcolate considerando la composizione tipica di un dispositivo elettronico di questo tipo. Si stima che il prodotto sia composto principalmente da plastica (circa 70%) e metalli (circa 30%), con un fattore di emissione medio di 5 kg CO2e/kg per la plastica e 20 kg CO2e/kg per i metalli. Il peso del prodotto è di 2.1 once (circa 0.06 kg). Le emissioni totali sono state calcolate tenendo conto della produzione, del trasporto e dello smaltimento, con un contributo significativo dalla fase di produzione dei componenti elettronici.\"\n}\n```"
+  },
+  {
+    "product_name": "Galaxy Backdrop Stars Sky Background for Children Bedroom Birthday Party 5x3ft Dark Purple Halo Glitters Stars Purple The Earth Props Photo Booth Props BJHXME208",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 3.2,\n  \"explanation\": \"Le emissioni di CO2e/kg sono state calcolate considerando i materiali principali del prodotto: vinile e poliestere. Il vinile ha un fattore di emissione di circa 3.5 kg CO2e/kg, mentre il poliestere ha circa 2.5 kg CO2e/kg. Supponendo una composizione del 60% vinile e 40% poliestere, e considerando il peso del prodotto (6.4 once ≈ 0.18 kg), le emissioni totali sono state stimate includendo anche la stampa digitale e il trasporto. La produzione del vinile è particolarmente energivora, contribuendo significativamente alle emissioni totali.\"\n}\n```"
+  },
+  {
+    "product_name": "Logitech Cordless Optical Mouse for Notebooks (Red)",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 8.5,\n  \"explanation\": \"Le emissioni di CO2e/kg per il mouse Logitech Cordless Optical sono state calcolate considerando la composizione tipica di un mouse wireless: plastica (ABS, ~70% del peso, fattore di emissione ~3.2 kg CO2e/kg), circuiti stampati (~20%, ~10 kg CO2e/kg), batterie (~10%, ~50 kg CO2e/kg per batterie alcaline). Il trasporto (via mare, ~0.1 kg CO2e/kg) e l'assemblaggio (~0.5 kg CO2e/kg) sono stati inclusi. Il peso del prodotto (10.4 oz ≈ 0.295 kg) è stato convertito in kg per il calcolo.\"\n}\n```"
+  },
+  {
+    "product_name": "hellosy Fitbit Surge Band,Newest TPU Bracelet Strap Large Replacement Band for Fitbit Surge Wireless Activity Wristband with Tools (Black, Large)",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 3.2,\n  \"explanation\": \"Il prodotto è un braccialetto di ricambio per Fitbit Surge, realizzato principalmente in TPU (poliuretano termoplastico). Il calcolo delle emissioni di CO2e/kg si basa sui seguenti fattori: 1) Produzione del TPU (circa 2.5 kg CO2e/kg), 2) Trasporto (stimato in 0.5 kg CO2e/kg considerando la provenienza da un paese asiatico), 3) Processi di lavorazione e assemblaggio (0.2 kg CO2e/kg). Non sono stati considerati l'uso e lo smaltimento del prodotto per mancanza di dati specifici.\"\n}\n```"
+  },
+  {
+    "product_name": "LAMJAD Stroller Fan,Portable USB Personal Clip-on Car Seat Fan Mini Handheld Desktop Fan 360° Rotatable Suitable for Camping Outdoor Office Crib Toddler Bed Treadmill (Black)",
+    "co2e_kg": null,
+    "explanation": "```json\n{\n  \"co2e_kg\": 8.5,\n  \"explanation\": \"Le emissioni di CO2e/kg sono state calcolate considerando la composizione materiale del prodotto (silicone e metallo), la produzione in Cina (fattore di emissione energetica locale), il trasporto marittimo verso il mercato di destinazione e l'uso energetico durante la fase operativa (ricarica USB). Il silicone contribuisce con ~3 kg CO2e/kg (produzione ad alta intensità energetica), mentre il metallo (probabilmente alluminio) aggiunge ~5 kg CO2e/kg (estrazione e lavorazione). La fase di trasporto incide per ~0.5 kg CO2e/kg (distanza Cina-USA). L'imballaggio e lo smaltimento sono stati stimati con un contributo minore.\"\n}\n```"
+  }
+]

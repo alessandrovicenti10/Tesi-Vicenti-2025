@@ -1,7 +1,7 @@
 
 import Together from "together-ai";
 
-const together = new Together({ apiKey: "5a49da191ec54d69ba99d57d9f6413d527a061172fbd48d51cfbeee2e7561568" });
+const together = new Together({ apiKey: "api_key" });
 
 async function run() {
     const response = await together.chat.completions.create({
