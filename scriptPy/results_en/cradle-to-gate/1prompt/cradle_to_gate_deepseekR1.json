@@ -1,0 +1,52 @@
+[
+  {
+    "product_name": "KALANDO Wireless Bluetooth Colorful LED Water Speaker with Dancing Fountain Light Show Sound for PC, MP3 Player, Laptops, Smartphone Black",
+    "co2e_kg": 6.5,
+    "explanation": "Emissions estimated as follows: 1) Raw materials (5.5 kg CO2e): Assumed 0.3 kg plastic (4 kg CO2e/kg), 0.1 kg aluminum (9 kg CO2e/kg), 0.05 kg copper (4 kg CO2e/kg), 0.05 kg lithium battery (14 kg CO2e/kg), and 0.05 kg electronics (50 kg CO2e/kg). 2) Transportation (0.1 kg CO2e): 1,000 km truck transport for 0.5 kg total materials (0.1 kg CO2e/ton-km). 3) Manufacturing (1.0 kg CO2e): 1 kWh energy (0.7 kg CO2e) + assembly processes. Assumes China-based production with coal-heavy grid and generic material composition due to limited product data."
+  },
+  {
+    "product_name": "Diamond ATI Radeon HD5870 Eyefinity 6 Edition 2048 MB GDDR5 PCI-Express Video Card 5870PE52G",
+    "co2e_kg": 350,
+    "explanation": "Cradle-to-gate emissions are estimated at 350 kg CO2e, primarily from: 1) Raw material extraction/processing (120 kg) including silicon for the GPU, GDDR5 memory, and PCB metals; 2) Manufacturing/assembly (230 kg) due to energy-intensive semiconductor fabrication (lithography, etching) and component assembly; 3) Transportation (<1 kg) of materials via sea/road, minimized by low weight (2.16 lbs). Emissions exclude distribution, use, and disposal phases. Values reflect older 2010 manufacturing processes and conservative material impact assumptions."
+  },
+  {
+    "product_name": "Case for iPad Pro 12.9 2022/2021/2020/2018, Blue Flowers Shockproof Protective Case for iPad Pro 12.9 6th/5th/4th/3rd Gen, [Auto Sleep/Wake] [with Pencil Holder] Adjustable Stand iPad Case Folio Cover",
+    "co2e_kg": 3.5,
+    "explanation": "Emissions were calculated as follows: 1) Raw materials: Assumed 0.54 kg total weight (1.19 lbs) with PU leather (50% mass ≈ 0.27 kg, ~5.5 kg CO2e/kg), TPU (30% ≈ 0.16 kg, ~4 kg CO2e/kg), and microfiber (20% ≈ 0.11 kg, ~5 kg CO2e/kg), totaling ~2.68 kg CO2e. 2) Transportation: Estimated 500 km truck transport (0.1 kg CO2e/ton-km) for raw materials, contributing ~0.03 kg CO2e. 3) Manufacturing: Energy for molding/assembly (0.54 kWh at China's grid intensity of 0.7 kg CO2e/kWh) and process emissions, totaling ~0.79 kg CO2e. Values are approximate due to assumptions about material composition and supply chain distances."
+  },
+  {
+    "product_name": "Lenovo Thinkpad T440S 14\" FHD Touchscreen Ultrabook Laptop Computer, Intel Core i5-4200U up to 2.6GHz, 8GB RAM, 240GB SSD, WiFi, Bluetooth, USB 3.0, Windows 10 Professional (Renewed)",
+    "co2e_kg": 300,
+    "explanation": "Cradle-to-gate emissions are estimated at 300 kg CO2e. Raw material extraction and processing (≈200 kg) includes aluminum casing, lithium-ion battery (7 kg for 47 Wh), SSD (12 kg for 240GB), RAM (4 kg for 8GB), and touchscreen (50 kg). Transportation (≈20 kg) assumes global shipping of components. Manufacturing (≈80 kg) covers energy-intensive semiconductor fabrication (CPU/GPU), assembly, and testing. Values align with industry averages for laptops, adjusted for component specifications. Renewed status may reduce material impacts via reuse, but new components (e.g., SSD, battery) are included."
+  },
+  {
+    "product_name": "Ceeyali Reusable Hook and Loop Fastening Cable Ties Cable Straps for Home Office Tablet PC TV Electronics Wires Organizer Management (15 Pack 8 inch + 15 Pack 12 inch)",
+    "co2e_kg": 1.05,
+    "explanation": "Emissions calculated as follows: 1) Raw material extraction/processing (0.68 kg CO2e): Fabric (assumed polyester/nylon blend) production for 30 straps (total 90.7g) at ~7.5 kg CO2e/kg. 2) Transportation (0.02 kg CO2e): 1,000 km truck transport of materials (0.00009t * 0.2 kg CO2e/t-km). 3) Manufacturing (0.25 kg CO2e): Energy for cutting, adhesive application, and assembly (0.5 kWh/kg at 0.5 kg CO2e/kWh). 4) Packaging (0.1 kg CO2e): LDPE plastic packaging (~10g at 6 kg CO2e/kg). Total excludes downstream phases per requirements."
+  },
+  {
+    "product_name": "HYS 3.5mm Police Listen Only Acoustic Tube Earpiece with One Pair Medium Earmolds for Speaker Mics",
+    "co2e_kg": 0.1,
+    "explanation": "Emissions were calculated as follows: 1) Raw materials: Estimated 0.018 kg product weight (0.015 kg plastic @ ~4 kg CO2e/kg = 0.06 kg, 0.003 kg silicone @ ~3 kg CO2e/kg = 0.009 kg, trace metal components = 0.004 kg). Total = 0.073 kg. 2) Transportation: Minimal truck transport in China (~500 km @ 0.1 kg CO2e/ton-km for 0.000018 tons) = 0.01 kg. 3) Manufacturing: Energy for molding/assembly (~0.009 kWh @ China's 0.7 kg CO2e/kWh grid) + labor = 0.01 kg. Total cradle-to-gate emissions = 0.093 kg, rounded to 0.1 kg. Assumptions reflect material composition, regional grid mix, and lightweight product design."
+  },
+  {
+    "product_name": "ASUS VivoBook Thin and Light Laptop, 15.6\" HD Display, Intel Core i3-1005G1 Processor, USB Type-C, Webcam, Wi-Fi, HDMI, Windows 11 Home, Gray (12GB RAM | 256GB SSD)",
+    "co2e_kg": 280,
+    "explanation": "Calculated cradle-to-gate emissions include: 1) Raw material extraction (70% of total) - silicon for SSD/RAM (≈50 kg), aluminum/copper/rare earths in CPU/display (≈80 kg), lithium-ion battery materials (≈20 kg), and plastics (≈30 kg). 2) Transportation (5%) - global shipping of components (≈14 kg). 3) Manufacturing (25%) - semiconductor fabrication energy (≈40 kg), assembly/testing (≈30 kg). Total aligns with industry averages for mid-range laptops (200-300 kg range), adjusted upward for 12GB RAM and 256GB SSD components."
+  },
+  {
+    "product_name": "SMDV Diffuser-50 -- Professional 20x20\" Rigid Softbox for Canon Flash",
+    "co2e_kg": 9.2,
+    "explanation": "Emissions were calculated by summing contributions from: 1) Material extraction/processing: Fiberglass frame (0.5 kg @ 3.5 kgCO2e/kg = 1.75 kg), rip-stop nylon shell/diffusers (0.4 kg @ 6.5 kgCO2e/kg = 2.6 kg), aluminum components (0.2 kg @ 9 kgCO2e/kg = 1.8 kg), silver coating process (0.5 kgCO2e), and plastic/case (0.2 kg @ 4 kgCO2e/kg = 0.8 kg). 2) Transportation: 500 km truck transport for raw materials (1.2 kg total mass @ 0.0002 kgCO2e/kg-km = 0.12 kg). 3) Manufacturing: 2 kWh energy use @ 0.5 kgCO2e/kHz grid mix (1 kg) + coating/assembly emissions (0.5 kg). Total = 1.75+2.6+1.8+0.5+0.8+0.12+1+0.5 = 9.07 kg (rounded to 9.2 kg for conservative estimates on material uncertainties)."
+  },
+  {
+    "product_name": "RasTech Raspberry Pi 3 Model B+ Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Micro SDHC Card, Cooling Fan, HDMI Cable, Network Cable, Hestsinks, Card Reader, Screwdriver",
+    "co2e_kg": 18.7,
+    "explanation": "Emissions were estimated by summing contributions from: 1) Raw materials and processing (RPi 3B+ board ~7 kg CO2e: semiconductor fabrication, PCB, metals; 32GB SD card ~2 kg: NAND flash production; power supply ~2 kg: plastics/electronics; cables/case/heatsinks/fan ~3 kg: plastics/metals; other accessories ~1 kg). 2) Transportation: ~1.7 kg (assumed 10% of material emissions for global logistics). 3) Manufacturing/assembly: ~4 kg (energy for PCB assembly, testing, and packaging). Values derived from industry averages for electronics manufacturing, scaled for component complexity and mass."
+  },
+  {
+    "product_name": "USB 3.0 Extension Cable 20Ft, TanGuYu USB 3.0 Extender Cord Type A Male to A Female for Oculus VR, Playstation, Xbox, USB Flash Drive, Card Reader, Hard Drive,Keyboard, Printer, Scanner, Camera",
+    "co2e_kg": 1.7,
+    "explanation": "Calculations consider: 1) Raw materials: ~0.1 kg copper (4 kg CO2e/kg = 0.4 kg), 0.15 kg PVC (2.5 kg CO2e/kg = 0.375 kg), aluminum/steel shielding (0.55 kg), and minimal gold plating (0.01 kg). Total materials: ~1.34 kg. 2) Transportation: 0.03 kg from 5,000 km sea + 500 km truck logistics. 3) Manufacturing: 0.33 kg from energy-intensive processes like wire drawing, extrusion, and assembly. Dominant contributors are copper processing (23%), PVC production (22%), and manufacturing energy (19%)."
+  }
+]

@@ -4,12 +4,12 @@ from openai import OpenAI
 from together import Together
 
 #client = Together(api_key = "api_key")
-#API_KEY = "api_key"
-#client = openai.OpenAI(api_key=API_KEY)
-#MODEL = "gpt-4o"
+API_KEY = "api_key"
+client = openai.OpenAI(api_key=API_KEY)
+MODEL = "gpt-4o"
 
-API_KEY = "api_key"  # Sostituisci con la tua API Key
-MODEL = "deepseek/deepseek-r1"   #"meta-llama/llama-4-maverick:free"  #"anthropic/claude-3.7-sonnet" #"google/gemini-2.0-flash-thinking-exp:free"  #"mistralai/mistral-small-3.1-24b-instruct:free" #"deepseek/deepseek-chat-v3-0324:free"
+#API_KEY = "api_key"  # Sostituisci con la tua API Key
+#MODEL = "deepseek/deepseek-r1"   #"meta-llama/llama-4-maverick:free"  #"anthropic/claude-3.7-sonnet" #"google/gemini-2.0-flash-thinking-exp:free"  #"mistralai/mistral-small-3.1-24b-instruct:free" #"deepseek/deepseek-chat-v3-0324:free"
 BASE_URL = "https://openrouter.ai/api/v1"
 
 #client = OpenAI(base_url=BASE_URL, api_key=API_KEY)
@@ -118,7 +118,7 @@ def main(num_rows):
             })
     
     # Salva i risultati in un file JSON
-    with open("gpt_4o_en.json", "w", encoding="utf-8") as out:
+    with open("gpt_4o.json", "w", encoding="utf-8") as out:
         json.dump(results, out, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":

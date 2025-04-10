@@ -1,0 +1,52 @@
+[
+  {
+    "product_name": "KALANDO Wireless Bluetooth Colorful LED Water Speaker with Dancing Fountain Light Show Sound for PC, MP3 Player, Laptops, Smartphone Black",
+    "co2e_kg": 4.5,
+    "explanation": "Cradle-to-gate emissions calculated as follows: 1. **Materials**: 65% plastics (0.325 kg) at ~4 kg CO2e/kg = 1.3 kg. Metals (25%, 0.125 kg total) include aluminum (high impact), steel, copper, and neodymium (magnets), totaling ~0.91 kg. Rubber (5%), glass (3%), and 'other' (2%, incl. battery components) add ~0.13 kg. Total materials: ~2.34 kg. 2. **Transport**: 500 km trucking for 0.5 kg materials ≈ 0.025 kg. 3. **Manufacturing**: Energy-intensive processes (e.g., injection molding, PCB assembly) in a coal-heavy grid (China) estimated at ~2 kg. Total: 2.34 + 0.025 + 2 ≈ 4.4 kg, rounded to 4.5 kg to account for uncertainties in battery components and manufacturing energy."
+  },
+  {
+    "product_name": "Diamond ATI Radeon HD5870 Eyefinity 6 Edition 2048 MB GDDR5 PCI-Express Video Card 5870PE52G",
+    "co2e_kg": null,
+    "explanation": "Error parsing JSON response: Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "product_name": "Case for iPad Pro 12.9 2022/2021/2020/2018, Blue Flowers Shockproof Protective Case for iPad Pro 12.9 6th/5th/4th/3rd Gen, [Auto Sleep/Wake] [with Pencil Holder] Adjustable Stand iPad Case Folio Cover",
+    "co2e_kg": 3.5,
+    "explanation": "Cradle-to-gate CO2e emissions were calculated as follows: 1) **Material production**: Total product weight is 1.19 lbs (0.54 kg). Emissions factors: PU Leather (5 kg CO2e/kg), TPU (3.5 kg CO2e/kg), Polycarbonate (6.5 kg CO2e/kg), Microfiber (5 kg CO2e/kg), Magnets (2 kg CO2e/kg). Weighted sum: (0.3*5 + 0.25*3.5 + 0.3*6.5 + 0.1*5 + 0.05*2) * 0.54 kg = ~2.65 kg. 2) **Transportation**: Assumed 1,000 km by truck (0.1 kg CO2e/ton-km). Emissions: 0.54 kg * 1,000 km * 0.0001 kg CO2e/kg-km = 0.054 kg. 3) **Manufacturing**: Injection molding, assembly, and printing (1.5 kg CO2e/kg product). Emissions: 0.54 kg * 1.5 = 0.81 kg. Total: 2.65 + 0.054 + 0.81 ≈ 3.5 kg CO2e."
+  },
+  {
+    "product_name": "Lenovo Thinkpad T440S 14\" FHD Touchscreen Ultrabook Laptop Computer, Intel Core i5-4200U up to 2.6GHz, 8GB RAM, 240GB SSD, WiFi, Bluetooth, USB 3.0, Windows 10 Professional (Renewed)",
+    "co2e_kg": 250,
+    "explanation": "Cradle-to-gate emissions calculated using material composition and standard emission factors. Key contributors: Aluminum (30% of 1.58kg at ~16 kgCO2e/kg = 7.58 kg), Plastics (25% at ~3.5 kgCO2e/kg = 1.38 kg), Lithium-ion battery (20% at ~13.5 kgCO2e/kg = 4.27 kg), and manufacturing/assembly (~7.9 kg). Transportation adds ~0.2 kg. Total adjusted to reflect industry benchmarks for electronics, which account for unlisted components (e.g., CPU, SSD) with high semiconductor-related emissions."
+  },
+  {
+    "product_name": "Ceeyali Reusable Hook and Loop Fastening Cable Ties Cable Straps for Home Office Tablet PC TV Electronics Wires Organizer Management (15 Pack 8 inch + 15 Pack 12 inch)",
+    "co2e_kg": 0.81,
+    "explanation": "Cradle-to-gate emissions calculated as follows: 1) **Material production**: 80% polyester (0.0726 kg of total 0.0907 kg product weight) at 6 kg CO2e/kg = 0.4356 kg, and 20% nylon (0.0181 kg) at 8.5 kg CO2e/kg = 0.15385 kg. Total materials: 0.589 kg. 2) **Transportation**: Assumed 1,000 km truck transport (0.1 kg CO2e/ton-km) for 0.0907 kg materials = 0.01 kg. 3) **Manufacturing**: Energy for cutting/sewing at 2 kg CO2e/kg product (0.0907 kg × 2) = 0.1814 kg. Total: 0.589 + 0.01 + 0.1814 ≈ 0.81 kg CO2e."
+  },
+  {
+    "product_name": "HYS 3.5mm Police Listen Only Acoustic Tube Earpiece with One Pair Medium Earmolds for Speaker Mics",
+    "co2e_kg": 0.15,
+    "explanation": "Cradle-to-gate emissions calculated based on material composition (50% rubber, 30% silicone, 15% plastic, 5% metal) and a total product weight of 0.018 kg. Emission factors: rubber (4 kg CO2e/kg), silicone (6 kg CO2e/kg), plastic (2.5 kg CO2e/kg), metal (5 kg CO2e/kg). Material phase contributes ~0.08 kg CO2e. Transportation (assumed 500 km truck) adds ~0.001 kg. Manufacturing (injection molding/assembly) estimated at ~0.05 kg. Total emissions rounded to 0.15 kg CO2e."
+  },
+  {
+    "product_name": "ASUS VivoBook Thin and Light Laptop, 15.6\" HD Display, Intel Core i3-1005G1 Processor, USB Type-C, Webcam, Wi-Fi, HDMI, Windows 11 Home, Gray (12GB RAM | 256GB SSD)",
+    "co2e_kg": 41.0,
+    "explanation": "Cradle-to-gate emissions calculated as follows: 1. **Material Production**: Total product weight estimated at 1.8 kg (3.97 lbs). Material-specific emission factors applied: Plastics (30%, 0.54 kg @ 4 kg CO2e/kg = 2.16 kg), Aluminum (20%, 0.36 kg @ 10 kg CO2e/kg = 3.6 kg), Copper (10%, 0.18 kg @ 4 kg CO2e/kg = 0.72 kg), Glass (5%, 0.09 kg @ 1.2 kg CO2e/kg = 0.11 kg), Silicon (5%, 0.09 kg @ 20 kg CO2e/kg = 1.8 kg), Lithium-ion battery (20%, 0.36 kg @ 70 kg CO2e/kg = 25.2 kg), Steel (5%, 0.09 kg @ 2.5 kg CO2e/kg = 0.23 kg), Other (5%, 0.09 kg @ 3 kg CO2e/kg = 0.27 kg). Total materials: ~33.08 kg. 2. **Transportation**: Assumed 1,000 km truck (0.36 kg) + 5,000 km ship (0.09 kg) = 0.45 kg. 3. **Manufacturing**: Assembly/PCB production estimated at 7.5 kg. Total: 33.08 + 0.45 + 7.5 ≈ 41 kg CO2e."
+  },
+  {
+    "product_name": "SMDV Diffuser-50 -- Professional 20x20\" Rigid Softbox for Canon Flash",
+    "co2e_kg": 5.2,
+    "explanation": "Cradle-to-gate emissions calculated as follows: 1) Material production: Fiberglass (50% of 1.2kg total weight) at 2 kg CO2e/kg = 1.2kg, rip-stop nylon (35%) at 6 kg CO2e/kg = 2.52kg, steel (10%) at 2.5 kg CO2e/kg = 0.3kg, plastic (5%) at 4 kg CO2e/kg = 0.24kg. Total materials: 4.26kg. 2) Transportation: 0.12kg (1.2kg * 0.1kg CO2e/kg). 3) Manufacturing: 0.82kg (estimated energy for assembly/molding). Total: 4.26 + 0.12 + 0.82 ≈ 5.2kg. Assumes steel for metal components and mid-range emission factors for manufacturing energy."
+  },
+  {
+    "product_name": "RasTech Raspberry Pi 3 Model B+ Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Micro SDHC Card, Cooling Fan, HDMI Cable, Network Cable, Hestsinks, Card Reader, Screwdriver",
+    "co2e_kg": 5.8,
+    "explanation": "Cradle-to-gate emissions calculated as follows:\n1. **Material Production**: \n   - Plastic (45% of 0.388 kg): 0.1746 kg * 3.5 kg CO2e/kg (ABS) = 0.61 kg\n   - Aluminum (15%): 0.0582 kg * 16 kg CO2e/kg = 0.93 kg\n   - Copper (10%): 0.0388 kg * 4 kg CO2e/kg = 0.16 kg\n   - Steel (5%): 0.0194 kg * 2.5 kg CO2e/kg = 0.05 kg\n   - FR4 (20%): 0.0776 kg * 10 kg CO2e/kg = 0.78 kg\n   - Silicon (3%): 0.0116 kg * 100 kg CO2e/kg (semiconductor-grade) = 1.16 kg\n   - Other (2%): 0.0078 kg * 5 kg CO2e/kg = 0.04 kg\n   **Total Materials**: ~3.73 kg\n2. **Transportation**: Assumed 1,000 km truck (0.077 kg) + 5,000 km ship (0.019 kg) = 0.10 kg\n3. **Manufacturing**: PCB assembly, soldering, and component integration estimated at 1.97 kg (high energy use for electronics).\n**Total**: 3.73 + 0.10 + 1.97 ≈ 5.8 kg CO2e."
+  },
+  {
+    "product_name": "USB 3.0 Extension Cable 20Ft, TanGuYu USB 3.0 Extender Cord Type A Male to A Female for Oculus VR, Playstation, Xbox, USB Flash Drive, Card Reader, Hard Drive,Keyboard, Printer, Scanner, Camera",
+    "co2e_kg": 0.82,
+    "explanation": "Cradle-to-gate emissions calculated as follows: 1) Material production: PVC (55% of 0.198 kg = 0.109 kg, 2.5 kg CO2e/kg = 0.27 kg), Copper (35% = 0.0695 kg, 3.5 kg CO2e/kg = 0.24 kg), Aluminum (5% = 0.0099 kg, 10 kg CO2e/kg = 0.10 kg), Brass (5% = 0.0099 kg, 3.5 kg CO2e/kg = 0.03 kg). Total materials: 0.65 kg CO2e. 2) Transportation: 500 km truck transport (0.000198 tons * 500 km * 0.1 kg CO2e/ton-km = 0.01 kg). 3) Manufacturing: Energy for wire drawing, extrusion, and assembly (0.23 kWh * 0.7 kg CO2e/kWh = 0.16 kg). Total: 0.65 + 0.01 + 0.16 = 0.82 kg CO2e."
+  }
+]

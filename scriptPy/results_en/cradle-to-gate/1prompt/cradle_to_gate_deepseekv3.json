@@ -1,0 +1,52 @@
+[
+  {
+    "product_name": "KALANDO Wireless Bluetooth Colorful LED Water Speaker with Dancing Fountain Light Show Sound for PC, MP3 Player, Laptops, Smartphone Black",
+    "co2e_kg": 12.5,
+    "explanation": "The cradle-to-gate CO2e emissions for the KALANDO Wireless Bluetooth Water Speaker are estimated at 12.5 kg. This calculation includes: 1) Raw material extraction and processing (5 kg CO2e), primarily from plastics (ABS, PC) for the housing, electronics (PCB, LEDs, Bluetooth module), and small metal components. 2) Transportation of raw materials (2 kg CO2e), assuming average distances from suppliers in China to the manufacturing facility via truck. 3) Manufacturing and assembly (5.5 kg CO2e), accounting for injection molding, PCB assembly, and final product assembly. The emissions are based on typical values for small electronic devices of similar weight (0.5 kg) and complexity, with adjustments for the water fountain mechanism and LED light show components. Country of origin (China) and manufacturing energy mix were factored into the calculation."
+  },
+  {
+    "product_name": "Diamond ATI Radeon HD5870 Eyefinity 6 Edition 2048 MB GDDR5 PCI-Express Video Card 5870PE52G",
+    "co2e_kg": 120.5,
+    "explanation": "The cradle-to-gate CO2e emissions for the Diamond ATI Radeon HD5870 Eyefinity 6 Edition video card were calculated as follows: 1) Raw material extraction and processing (60 kg CO2e): This includes the energy-intensive production of semiconductors, GDDR5 memory, and other electronic components. 2) Transportation of raw materials (10 kg CO2e): Estimated based on average distances for electronic component shipping via air and sea freight. 3) Manufacturing and assembly (50.5 kg CO2e): Includes PCB fabrication, component assembly, and testing processes in high-tech facilities. The total reflects typical emissions for high-performance graphics cards of this era, with primary contributions from semiconductor fabrication (which is energy and resource intensive) and material processing."
+  },
+  {
+    "product_name": "Case for iPad Pro 12.9 2022/2021/2020/2018, Blue Flowers Shockproof Protective Case for iPad Pro 12.9 6th/5th/4th/3rd Gen, [Auto Sleep/Wake] [with Pencil Holder] Adjustable Stand iPad Case Folio Cover",
+    "co2e_kg": 2.5,
+    "explanation": "The cradle-to-gate CO2e emissions for the iPad Pro case are estimated at 2.5 kg, based on the following assumptions: 1) Raw material extraction and processing (1.2 kg CO2e): The case is made of PU leather (polyurethane) and TPU (thermoplastic polyurethane), both derived from fossil fuels, with energy-intensive production processes. Microfiber lining adds minor emissions. 2) Transportation (0.3 kg CO2e): Assuming raw materials are transported by truck (~500 km) and sea (~2000 km) from Asian suppliers to a Chinese manufacturing facility. 3) Manufacturing (1.0 kg CO2e): Injection molding for TPU components, cutting/sewing for PU leather, and assembly processes, with electricity primarily from coal-powered grids in China. The weight (1.19 lbs/0.54 kg) and hybrid shell design suggest moderate material use. No primary LCA data was available for this specific product, so values are approximated using industry averages for similar electronics accessories."
+  },
+  {
+    "product_name": "Lenovo Thinkpad T440S 14\" FHD Touchscreen Ultrabook Laptop Computer, Intel Core i5-4200U up to 2.6GHz, 8GB RAM, 240GB SSD, WiFi, Bluetooth, USB 3.0, Windows 10 Professional (Renewed)",
+    "co2e_kg": 300,
+    "explanation": "The cradle-to-gate CO2e emissions for the Lenovo Thinkpad T440S are estimated at 300 kg, based on industry-average data for similar laptops. This includes: 1) Raw material extraction and processing (e.g., aluminum, plastics, rare earth metals for electronics), contributing ~50% of emissions; 2) Transportation of materials (assuming global supply chains by air/sea), contributing ~10%; and 3) Manufacturing/assembly (energy-intensive semiconductor fabrication, PCB assembly, and final assembly), contributing ~40%. The SSD and touchscreen display increase emissions slightly compared to non-touch HDD models. Renewed status implies reused components, but this analysis assumes virgin materials for consistency with cradle-to-gate boundaries."
+  },
+  {
+    "product_name": "Ceeyali Reusable Hook and Loop Fastening Cable Ties Cable Straps for Home Office Tablet PC TV Electronics Wires Organizer Management (15 Pack 8 inch + 15 Pack 12 inch)",
+    "co2e_kg": 0.45,
+    "explanation": "The cradle-to-gate CO2e emissions for the Ceeyali reusable hook and loop fastening cable ties were calculated as follows: 1. Raw material extraction and processing: The product is made of fabric material (likely polyester or nylon), with an estimated emission factor of 5 kg CO2e/kg of material. Assuming a total weight of 3.2 ounces (0.09 kg), this phase contributes ~0.45 kg CO2e. 2. Transportation: Given the lightweight nature and likely regional sourcing, transportation emissions are negligible (<0.01 kg CO2e). 3. Manufacturing: The assembly process for hook-and-loop fasteners is low-energy, contributing ~0.01 kg CO2e. The total is dominated by material production. Plastic components (if any) were not included due to conflicting data in product details."
+  },
+  {
+    "product_name": "HYS 3.5mm Police Listen Only Acoustic Tube Earpiece with One Pair Medium Earmolds for Speaker Mics",
+    "co2e_kg": 0.45,
+    "explanation": "The cradle-to-gate CO2e emissions for the HYS 3.5mm Police Listen Only Acoustic Tube Earpiece were calculated as follows: 1) Raw material extraction and processing (0.2 kg CO2e): The product is primarily made of rubber (silicone) and small electronic components, with rubber production being the most emissions-intensive. 2) Transportation of raw materials (0.1 kg CO2e): Assuming materials are sourced locally in China and transported by truck over short distances. 3) Manufacturing and assembly (0.15 kg CO2e): The energy-intensive processes include injection molding for the rubber components and assembly of electronic parts. The low weight (0.04 lbs) and simple design help keep emissions relatively low. All values are estimates based on similar small electronic/rubber products and typical manufacturing processes in China."
+  },
+  {
+    "product_name": "ASUS VivoBook Thin and Light Laptop, 15.6\" HD Display, Intel Core i3-1005G1 Processor, USB Type-C, Webcam, Wi-Fi, HDMI, Windows 11 Home, Gray (12GB RAM | 256GB SSD)",
+    "co2e_kg": 300,
+    "explanation": "The cradle-to-gate CO2e emissions for the ASUS VivoBook laptop are estimated at 300 kg, based on the following breakdown: 1) Raw material extraction and processing (e.g., aluminum for casing, silicon for chips, lithium for battery) contributes ~200 kg CO2e, primarily due to energy-intensive mining and refining. 2) Transportation of materials (assuming global supply chains) adds ~20 kg CO2e, using average freight emissions data. 3) Manufacturing/assembly (e.g., PCB production, SSD assembly, screen fabrication) contributes ~80 kg CO2e, dominated by semiconductor fabrication (high energy/cleanroom requirements). Key assumptions: LCA data from industry averages for similar laptops (e.g., 12GB RAM, 256GB SSD), excluding packaging. Variability may arise from supply chain specifics (e.g., renewable energy use in factories)."
+  },
+  {
+    "product_name": "SMDV Diffuser-50 -- Professional 20x20\" Rigid Softbox for Canon Flash",
+    "co2e_kg": 3.2,
+    "explanation": "The cradle-to-gate CO2e emissions for the SMDV Diffuser-50 were calculated by considering: 1) Raw material extraction and processing (nylon, silver coating, fiberglass), estimated at 1.5 kg CO2e based on typical textile and composite material impacts. 2) Transportation of materials (assuming 500 km by truck), contributing ~0.3 kg CO2e. 3) Manufacturing/assembly (fabric cutting, coating, frame assembly), estimated at 1.4 kg CO2e based on energy-intensive processes like silver coating and fiberglass molding. The total reflects a lightweight product (1.2 kg) with moderate material complexity but no high-impact metals or electronics."
+  },
+  {
+    "product_name": "RasTech Raspberry Pi 3 Model B+ Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Micro SDHC Card, Cooling Fan, HDMI Cable, Network Cable, Hestsinks, Card Reader, Screwdriver",
+    "co2e_kg": 5.2,
+    "explanation": "The cradle-to-gate CO2e emissions for the RasTech Raspberry Pi 3 Model B+ Starter Kit were calculated by considering the following phases: 1) Raw material extraction and processing (e.g., silicon for the board, plastics for the case, metals for heatsinks), estimated at 2.5 kg CO2e based on similar electronic products. 2) Transportation of raw materials to the manufacturing facility, estimated at 0.7 kg CO2e assuming an average distance of 500 km by truck. 3) Manufacturing and assembly processes, including PCB fabrication, component assembly, and testing, estimated at 2.0 kg CO2e based on energy-intensive electronics manufacturing. The total emissions are weighted by the product's components (e.g., 32GB SD card, cooling fan, HDMI cable) and their respective material/process impacts. Assumptions are based on industry averages for similar small electronics, as specific LCA data for this exact product is unavailable."
+  },
+  {
+    "product_name": "USB 3.0 Extension Cable 20Ft, TanGuYu USB 3.0 Extender Cord Type A Male to A Female for Oculus VR, Playstation, Xbox, USB Flash Drive, Card Reader, Hard Drive,Keyboard, Printer, Scanner, Camera",
+    "co2e_kg": 1.2,
+    "explanation": "The cradle-to-gate CO2e emissions for the USB 3.0 extension cable were calculated by considering the following phases: 1) Raw material extraction and processing: Emissions from copper mining, PVC production, and gold plating were estimated based on average values for these materials. Copper is the primary material, contributing ~0.8 kg CO2e due to energy-intensive mining and refining. PVC production adds ~0.2 kg CO2e. 2) Transportation: Assuming raw materials are transported ~500 km by truck to the manufacturing facility, contributing ~0.1 kg CO2e. 3) Manufacturing: The assembly process (including wire drawing, shielding application, and connector attachment) was estimated at ~0.1 kg CO2e based on similar electronic cable production data. The total was rounded to 1.2 kg CO2e to account for uncertainties in the supply chain. Note that this excludes distribution, use phase, and end-of-life emissions."
+  }
+]

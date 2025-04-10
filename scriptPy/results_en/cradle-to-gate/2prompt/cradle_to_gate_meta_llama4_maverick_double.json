@@ -1,0 +1,52 @@
+[
+  {
+    "product_name": "KALANDO Wireless Bluetooth Colorful LED Water Speaker with Dancing Fountain Light Show Sound for PC, MP3 Player, Laptops, Smartphone Black",
+    "co2e_kg": null,
+    "explanation": "Error parsing JSON response: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "product_name": "Diamond ATI Radeon HD5870 Eyefinity 6 Edition 2048 MB GDDR5 PCI-Express Video Card 5870PE52G",
+    "co2e_kg": 20.54,
+    "explanation": "Cradle-to-gate CO2e emissions for the Diamond ATI Radeon HD5870 graphics card were estimated based on material composition, transportation, and manufacturing processes. The total weight of the product is approximately 0.979 kg. The emissions were calculated for raw material extraction and processing (18.53 kg CO2e), transportation of raw materials (0.05 kg CO2e), and manufacturing and assembly (1.96 kg CO2e), totaling 20.54 kg CO2e."
+  },
+  {
+    "product_name": "Case for iPad Pro 12.9 2022/2021/2020/2018, Blue Flowers Shockproof Protective Case for iPad Pro 12.9 6th/5th/4th/3rd Gen, [Auto Sleep/Wake] [with Pencil Holder] Adjustable Stand iPad Case Folio Cover",
+    "co2e_kg": null,
+    "explanation": "Error parsing JSON response: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "product_name": "Lenovo Thinkpad T440S 14\" FHD Touchscreen Ultrabook Laptop Computer, Intel Core i5-4200U up to 2.6GHz, 8GB RAM, 240GB SSD, WiFi, Bluetooth, USB 3.0, Windows 10 Professional (Renewed)",
+    "co2e_kg": 14.99,
+    "explanation": "Cradle-to-gate CO2e emissions for the Lenovo Thinkpad T440S laptop. Raw material extraction and processing: 12.541 kg CO2e, Transportation: 0.079 kg CO2e, Manufacturing and assembly: 2.37 kg CO2e. Total: 14.99 kg CO2e."
+  },
+  {
+    "product_name": "Ceeyali Reusable Hook and Loop Fastening Cable Ties Cable Straps for Home Office Tablet PC TV Electronics Wires Organizer Management (15 Pack 8 inch + 15 Pack 12 inch)",
+    "co2e_kg": 0.406,
+    "explanation": "Cradle-to-gate emissions for the cable ties were estimated based on material composition (fabric and plastic), transportation, and manufacturing processes. The total weight of 30 pieces is approximately 90.7 grams. Emissions were calculated for raw material extraction and processing, transportation of raw materials, and manufacturing. The total CO2e emissions for 30 pieces of cable ties is approximately 0.406 kg."
+  },
+  {
+    "product_name": "HYS 3.5mm Police Listen Only Acoustic Tube Earpiece with One Pair Medium Earmolds for Speaker Mics",
+    "co2e_kg": 0.13,
+    "explanation": "Cradle-to-gate emissions for the HYS 3.5mm Police Listen Only Acoustic Tube Earpiece were estimated based on material composition, transportation of raw materials, and manufacturing processes. The product weighs approximately 0.018 kg, with a material breakdown into silicone, copper, plastic, rubber, other metals, and electronics components. Emissions from raw material extraction and processing were calculated using average emission factors for each material. Transportation emissions were estimated assuming a 500 km distance to the manufacturing facility. Manufacturing emissions were approximated using an average factor for electronics manufacturing."
+  },
+  {
+    "product_name": "ASUS VivoBook Thin and Light Laptop, 15.6\" HD Display, Intel Core i3-1005G1 Processor, USB Type-C, Webcam, Wi-Fi, HDMI, Windows 11 Home, Gray (12GB RAM | 256GB SSD)",
+    "co2e_kg": 96.4,
+    "explanation": "Cradle-to-gate emissions for the ASUS VivoBook laptop, including raw material extraction and processing (26.3 kg CO2e), transportation of raw materials (0.09 kg CO2e), and manufacturing and assembly processes (70 kg CO2e)."
+  },
+  {
+    "product_name": "SMDV Diffuser-50 -- Professional 20x20\" Rigid Softbox for Canon Flash",
+    "co2e_kg": 98.238,
+    "explanation": "Cradle-to-gate emissions for SMDV Diffuser-50. Raw material extraction and processing contribute the most due to the silver coating (93.155 kg CO2e). Other significant contributors include nylon, fiberglass, aluminum/steel, and plastic. Transportation and manufacturing emissions are relatively minor in comparison."
+  },
+  {
+    "product_name": "RasTech Raspberry Pi 3 Model B+ Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Micro SDHC Card, Cooling Fan, HDMI Cable, Network Cable, Hestsinks, Card Reader, Screwdriver",
+    "co2e_kg": null,
+    "explanation": "Error parsing JSON response: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  },
+  {
+    "product_name": "USB 3.0 Extension Cable 20Ft, TanGuYu USB 3.0 Extender Cord Type A Male to A Female for Oculus VR, Playstation, Xbox, USB Flash Drive, Card Reader, Hard Drive,Keyboard, Printer, Scanner, Camera",
+    "co2e_kg": 37.655,
+    "explanation": "Cradle-to-gate emissions for the USB 3.0 Extension Cable were estimated based on material composition and standard emission factors. The gold content significantly contributes to the overall emissions due to its high emission factor associated with mining and processing."
+  }
+]
