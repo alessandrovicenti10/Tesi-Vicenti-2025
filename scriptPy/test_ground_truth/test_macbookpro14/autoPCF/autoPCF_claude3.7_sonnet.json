@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 325.0,
+    "explanation": "Following GHG Protocol Product Standard and ISO 14040/14044 methodology, the carbon footprint calculation is based on the provided manufacturing CO2e data (325 kg). This value already accounts for material extraction and processing emissions from aluminum (60%), glass (15%), silicon (8%), lithium-ion battery (7%), copper (5%), plastic (3%), and stainless steel (2%). The manufacturing emissions include energy-intensive processes like chip fabrication, precision component manufacturing, and assembly operations. The calculation follows system boundary definitions from the GHG Protocol, covering material extraction, processing, and manufacturing (Scopes 1, 2, and upstream Scope 3). This assessment aligns with PAS 2050 and ISO/TS 14067 guidelines for product carbon footprinting, though additional data would be needed for a complete cradle-to-grave assessment including transportation, use phase, and end-of-life disposal."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Max - 1TB",
+    "co2e_kg": 325.0,
+    "explanation": "Following GHG Protocol Product Standard and ISO 14040/14044 methodology, the carbon footprint calculation focuses on the manufacturing emissions data provided. The manufacturing CO2e of 325 kg accounts for material extraction, processing, and manufacturing processes including aluminum production (60% of materials), energy-intensive silicon chip fabrication (8%), lithium-ion battery production (7%), glass manufacturing (15%), and other components. This value represents Scope 1, 2, and upstream Scope 3 emissions associated with material acquisition and production. The calculation follows PAS 2050 and ISO/TS 14067 guidelines for product carbon footprinting, converting all greenhouse gas emissions to CO2 equivalents. No additional data was provided for transportation, use phase, or end-of-life emissions, so these lifecycle stages are not included in the total."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Pro 512GB",
+    "co2e_kg": 385.0,
+    "explanation": "The calculation follows GHG Protocol Product Standard and ISO 14040/14044 methodology. Manufacturing emissions are directly provided (325 kg CO2e) and include material extraction, processing, and production. For transportation and distribution, industry average of 25 kg CO2e is applied based on typical electronics supply chain emissions. For use phase, the energy-efficient M4 chip results in lower emissions (approximately 20 kg CO2e over 4-year lifespan). End-of-life processing contributes approximately 15 kg CO2e, accounting for recycling benefits per PAS 2050 guidelines. The total carbon footprint of 385 kg CO2e represents cradle-to-grave emissions in accordance with ISO/TS 14067 requirements."
+  }
+]

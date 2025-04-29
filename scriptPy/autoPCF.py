@@ -5,12 +5,13 @@ from openai import OpenAI
 from together import Together
 
 #client = Together(api_key = "api_key")
-#API_KEY = "api_key"
+#API_KEY = "APIKEY"
 #client = openai.OpenAI(api_key=API_KEY)
-#MODEL = "gpt-4o"
+#MODEL = "gpt-4o-2024-08-06"
 
-API_KEY = "api_key"  # Sostituisci con la tua API Key
-MODEL = "deepseek/deepseek-r1"   #"meta-llama/llama-4-maverick:free"  #"anthropic/claude-3.7-sonnet" #"google/gemini-2.0-flash-thinking-exp:free"  #"mistralai/mistral-small-3.1-24b-instruct:free" #"deepseek/deepseek-chat-v3-0324:free"
+API_KEY = "APIKEY"  # Sostituisci con la tua API Key
+MODEL = "google/gemini-2.5-pro-exp-03-25:free"  #"google/gemini-2.5-pro-preview-03-25"       #"google/gemini-2.5-pro-preview-03-25"   #"anthropic/claude-3.7-sonnet" #"google/gemini-2.0-flash-thinking-exp:free"       
+#"meta-llama/llama-4-maverick:free"  #"mistralai/mistral-small-3.1-24b-instruct:free" #"deepseek/deepseek-chat-v3-0324:free"
 BASE_URL = "https://openrouter.ai/api/v1"
 
 client = OpenAI(base_url=BASE_URL, api_key=API_KEY)
@@ -122,7 +123,7 @@ def calculate_final_co2e(product_data, materials_data, manufacturing_data):
     return response.choices[0].message.content
 
 def main(num_rows):
-    products = load_dataset("../dataset/elctronics.jsonl", num_rows)
+    products = load_dataset("../dataset/Multi_products.jsonl", num_rows)
     results = []
     
     for product in products:
@@ -167,8 +168,8 @@ def main(num_rows):
             })
     
     # Save results
-    with open("autoPCF_deepseekR1.json", "w", encoding="utf-8") as out:
+    with open("MautoPCF_gemini2.5pro.json", "w", encoding="utf-8") as out:
         json.dump(results, out, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
-    main(10)
+    main(26)

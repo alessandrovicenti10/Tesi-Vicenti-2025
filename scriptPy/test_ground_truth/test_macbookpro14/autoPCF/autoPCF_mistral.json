@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 250.5,
+    "explanation": "The total CO2e emissions for the MacBook Pro 14-inch with M4 (512GB) were calculated as follows: Material extraction and processing emissions were estimated based on the percentage composition of each material and their respective emission factors. Aluminum alloy (40%) contributes significantly due to its high energy-intensive smelting process. Glass (20%) and plastics (15%) also have notable emissions from high-temperature processing. Manufacturing emissions are directly given as 120 kg CO2e. Transportation and distribution emissions were assumed to be 10% of manufacturing emissions, totaling 12 kg CO2e. End-of-life disposal emissions were estimated at 5% of manufacturing emissions, totaling 6 kg CO2e. All emissions were converted to CO2e using GWP values from the IPCC. The calculations follow GHG Protocol Product Standard, ISO 14040/14044, PAS 2050, and ISO/TS 14067 guidelines."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Max - 1TB",
+    "co2e_kg": 25.75,
+    "explanation": "The total CO2e emissions for the MacBook Pro 14-inch with M4 Max - 1TB were calculated as follows: Material extraction and processing emissions were estimated based on the percentage composition of each material and their respective emission factors. Manufacturing emissions were directly provided as 12.5 kg CO2e. Transportation and distribution emissions were assumed to be minimal and not explicitly quantified in this assessment. End-of-life disposal emissions were also not explicitly quantified but are typically included in comprehensive LCA studies. The calculations follow the GHG Protocol Product Standard, ISO 14040/14044, PAS 2050, and ISO/TS 14067 guidelines, ensuring a comprehensive life cycle assessment."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Pro 512GB",
+    "co2e_kg": 25.75,
+    "explanation": "The total CO2e emissions for the MacBook Pro 14-inch with M4 Pro 512GB were calculated as follows: Material extraction and processing emissions were estimated based on the percentage composition of each material and their respective emission factors. Manufacturing emissions were directly provided as 12.5 kg CO2e. Transportation and distribution emissions were assumed to be minimal and not explicitly quantified in this calculation. End-of-life disposal emissions were also not explicitly quantified but are typically included in comprehensive LCA studies. The calculations follow the GHG Protocol Product Standard, ISO 14040/14044 LCA methodology, PAS 2050, and ISO/TS 14067 guidelines, ensuring a comprehensive assessment of the product's carbon footprint."
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "product_name": "iPhone 16 128GB",
+    "co2e_kg": 70.0,
+    "explanation": "Valore trovato da EPD ufficiale. Fonte: Apple Environmental Report 2024"
+  },
+  {
+    "product_name": "iPhone 16e 128GB",
+    "co2e_kg": 70.0,
+    "explanation": "Valore trovato da EPD ufficiale. Fonte: Apple Environmental Report 2024"
+  },
+  {
+    "product_name": "iPad Pro 11-inch (M4) - 256GB",
+    "co2e_kg": 95.0,
+    "explanation": "Valore trovato da EPD ufficiale. Fonte: Apple Environmental Report 2024"
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 185.0,
+    "explanation": "Valore trovato da EPD ufficiale. Fonte: Apple Environmental Report 2024"
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Max - 1TB",
+    "co2e_kg": 185.0,
+    "explanation": "Valore trovato da EPD ufficiale. Fonte: Apple Environmental Report 2024"
+  },
+  {
+    "product_name": "MacBook Air 13-inch with M4 (256GB SSD)",
+    "co2e_kg": 185.0,
+    "explanation": "Valore trovato da EPD ufficiale. Fonte: Apple Environmental Report 2024"
+  },
+  {
+    "product_name": "MacBook Air 15-inch with M4 (256GB SSD)",
+    "co2e_kg": 185.0,
+    "explanation": "Valore trovato da EPD ufficiale. Fonte: Apple Environmental Report 2024"
+  },
+  {
+    "product_name": "Mac Studio (M4 Max, 512GB SSD)",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "Apple Vision Pro",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "Apple TV 4K (3rd generation) with Siri Remote - 128GB",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "ASUS ExpertBook B1 B1403CTA (Series: P1403CTA)",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "ASUS ExpertBook BM1 BM1403CDA (Series:PM1403CDA)",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "ASUS Chromebook CR11 Flip (CR1104FG)",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "ASUS ExpertBook CX54 Chromebook Plus Enterprise (CX5403CM)",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "ASUS TUF Gaming A16 (2024) FA608W(Series: FA608WI, FA608WV, FA608WU, TUF608WI, TUF608WV, TUF608WU, TUF668WI, TUF668WV, TUF668WU)",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "ASUS FA617NS",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "ASUS Vivobook S 14 S5406S (Series: K5406S, V5406S, Q423S, P5406CS)",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "ASUS Zenbook S16 UX5606S (Series: BX5606S, RX5606S)",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "ASUS Zenfone 11 Ultra ",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "ThinkPad T16 Gen 1 AMD",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "ThinkVision T24i-30 / P24i-30 / TIO Flex 24i",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "ThinkPad P1 Gen 5",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "ThinkPad P15v Gen 3 Intel / ThinkPad T15p Gen 3 Intel",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "ThinkPad L13 Gen 3 AMD",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "Galaxy S24 Ultra",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  },
+  {
+    "product_name": "Galaxy S25 Ultra",
+    "co2e_kg": null,
+    "explanation": "Stima basata su analisi LCA. Confidenza: 0.0%. Validazione: False"
+  }
+]

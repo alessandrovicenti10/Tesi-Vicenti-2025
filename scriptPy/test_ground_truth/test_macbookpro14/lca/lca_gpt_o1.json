@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 300,
+    "explanation": "This estimate is based on life cycle assessments of similar 14-inch MacBook Pro models, which typically range around 280–320 kg CO2e over a four-year usage period under standard LCA protocols. Primary sources of emissions include aluminum enclosure production, battery and logic board manufacturing, shipping, and energy usage. The updated M4 processor and similar materials suggest a cradle-to-grave footprint roughly in this range, leading to an approximate total of 300 kg CO2e."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Max - 1TB",
+    "co2e_kg": 370,
+    "explanation": "This estimate is based on publicly available lifecycle data for similar 14-inch MacBook Pro models (e.g., Apple’s published LCA data for M1 or M2-based products), combined with typical usage patterns (5 years), transportation assumptions, and end-of-life impacts. The primary materials include the aluminum enclosure, battery, and circuit boards, which account for the majority of emissions. Advances in chip efficiency (e.g., M4 Max) offset some operational emissions, but manufacturing remains the dominant source. Using these references and applying standardized LCA methodology leads to a cradle-to-grave estimate of ~370 kg CO2e."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Pro 512GB",
+    "co2e_kg": 340,
+    "explanation": "This estimate of 340 kg CO2e includes manufacturing of the aluminum enclosure and electronic components, assembly, distribution, typical energy consumption over an assumed 4-year use phase, and end-of-life processing. Reference data for similar 14-inch laptop models indicate a total life-cycle footprint in the range of 300 to 400 kg CO2e. The M4 Pro architecture is expected to have similar or slightly improved efficiency, so 340 kg CO2e is a reasonable approximation based on current scientific LCA methods and publicly available emissions data for comparable products."
+  }
+]

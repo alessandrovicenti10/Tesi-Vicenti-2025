@@ -1,0 +1,62 @@
+[
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 370,
+    "explanation": "This estimate is derived by allocating emissions across the key life cycle stages common for a 14-inch laptop of this type—materials (around 55–60%), manufacturing (around 20–25%), transport (5–10%), and usage plus end-of-life (about 10–15%). Material production (especially aluminum frame and circuit boards) typically dominates the footprint, followed by energy-intensive assembly processes. Distribution accounts for a smaller share given relatively efficient shipping, and usage-phase emissions depend on typical device power consumption over a multi-year lifespan."
+  },
+  {
+    "product_name": "Macbook Pro 13-inch M1 (2020) 256GB SSD",
+    "co2e_kg": 160,
+    "explanation": "This estimate considers the standard life cycle stages (materials extraction, manufacturing, distribution, use, and end-of-life) for a 13-inch aluminum laptop with an M1 processor and 256GB SSD. Typical emission factors are applied to aluminum for the enclosure, integrated circuits for the logic board and memory, lithium-ion battery production, and usage electricity over an assumed lifetime. Summing these contributions yields approximately 160 kg CO2e for this model."
+  },
+  {
+    "product_name": "Lenovo YOGA Chromebook C630",
+    "co2e_kg": 150,
+    "explanation": "A typical Chromebook of around 1.9 kg has an estimated total lifecycle footprint of about 150 kg CO2e. This estimate factors in materials (aluminum, plastics, battery, electronics), manufacturing, distribution, usage, and end-of-life impacts. Electronics and the battery tend to be the largest contributors, while aluminum and plastics also add a significant share. The figure of 150 kg CO2e reflects commonly used emission factors for these materials and processes."
+  },
+  {
+    "product_name": "Lenovo 14e Chromebook",
+    "co2e_kg": 160,
+    "explanation": "This estimate is based on a typical material composition for a 14-inch Chromebook, where aluminum, steel, plastics, circuit boards, and the battery contribute most of the footprint. Emission factors for each material (ranging roughly from 1.5 to 8 kg CO2e/kg) were applied using average weights and proportions for laptop components. Manufacturing processes, assembly, and transportation were also included. For a 14-inch device with these characteristics, the resulting value is approximately 160 kg CO2e over its life cycle."
+  },
+  {
+    "product_name": "Dell XPS 13 9370",
+    "co2e_kg": 200,
+    "explanation": "This estimate considers typical material composition of 40% aluminum, 30% plastics, 15% electronics (circuit boards, integrated chips), and 15% glass/other materials. Emission factors for aluminum (~8.6 kg CO2e/kg), plastics (~3.0 kg CO2e/kg), and electronics (~18.0 kg CO2e/kg) are applied along with an assumed 3–4 year usage phase including energy consumption. Final assembly, transportation, and end-of-life disposal are also factored in, leading to a total of around 200 kg CO2e."
+  },
+  {
+    "product_name": "Dell Latitude 7390",
+    "co2e_kg": 230,
+    "explanation": "This estimate is based on a typical material breakdown for a laptop (e.g., around 30% aluminum, 25% electronics, 15% battery, 20% plastic, and 10% miscellaneous) and commonly used emission factors: ~8.6 kg CO2e/kg for aluminum, ~100 kg CO2e/kg for electronic components, ~65 kg CO2e/kg for Li-ion batteries, and ~6 kg CO2e/kg for plastics. Accounting for manufacturing overhead and final assembly processes, the total is approximately 230 kg CO2e for cradle-to-gate."
+  },
+  {
+    "product_name": "Lenovo Thinkpad X1 Carbon 7th Gen",
+    "co2e_kg": 300,
+    "explanation": "This estimate is based on an approximate weight of 1.1 kg for the laptop, with a typical material breakdown (e.g., metals, plastics, electronics, battery). Emission factors for these materials were applied (for example, metals around 20 kgCO2e/kg, plastics around 6 kgCO2e/kg, battery production around 75 kgCO2e/kg), along with an assumed 3-year use phase drawing about 50 kWh of electricity per year at a global average of 0.4 kgCO2e/kWh. End-of-life disposal adds a small fraction. Summing these contributions yields approximately 300 kg CO2e in total."
+  },
+  {
+    "product_name": "Thinkpad L490",
+    "co2e_kg": 280,
+    "explanation": "This estimate is based on a typical laptop’s material mix (metals, plastics, electronics, battery, and packaging) and associated emission factors (which include sourcing raw materials, manufacturing, assembly, and average end-of-life impacts). The metals portion (around 40%) usually has the highest overall footprint, while plastics (around 20%) and the electronic components (around 15%) contribute moderately. Battery production (around 10%), along with other minor materials, completes the material emissions. Additional factors for final assembly and distribution are included. By applying common life cycle emission factors for these materials and processes, the total CO2e for a ThinkPad L490–class laptop is approximately 280 kg over its lifetime."
+  },
+  {
+    "product_name": "Microsoft Surface Pro 7",
+    "co2e_kg": 180,
+    "explanation": "This estimate is based on common emission factors for producing a lightweight tablet-laptop hybrid. It includes embodied emissions from materials (aluminum/magnesium casing, electronics, battery), manufacturing energy, average transport, and end-of-life processes. Similar devices with a 12–13 inch screen typically fall in this carbon footprint range based on standard LCA references."
+  },
+  {
+    "product_name": "Microsoft Surface Laptop 4 (Metal, 15 inch)",
+    "co2e_kg": 280,
+    "explanation": "This estimate is based on the device’s approximate weight (1.5 kg) and typical material composition for a metal-chassis laptop (about 50% aluminum, 25% electronics, 10% battery, 10% plastics, 5% other). Using standard emission factors (e.g., ~11.5 kg CO2e/kg for aluminum, ~110 kg CO2e/kg for battery cells, ~35 kg CO2e/kg for electronics, ~4.5 kg CO2e/kg for plastics, and ~2.5 kg CO2e/kg for remaining parts), the raw materials total around 39 kg CO2e. The remainder of the emissions are attributed to manufacturing, packaging, transport, usage, and end-of-life disposal, bringing the total to approximately 280 kg CO2e over the product’s lifespan."
+  },
+  {
+    "product_name": "iPhone 16 128GB",
+    "co2e_kg": 75,
+    "explanation": "This estimate is based on the typical materials composition and life cycle stages for a modern smartphone (production, transport, usage, end-of-life). For a device like an iPhone 16 128GB, it likely includes around 40% aluminum (emission factor ~8.6 kg CO2e/kg), 30% battery and electronics (higher emission factors due to complex components), and smaller percentages of glass, plastic, and steel. Factoring in these materials, manufacturing energy, logistics, and disposal processes leads to an approximate total of 75 kg CO2e over the product’s lifetime."
+  },
+  {
+    "product_name": "IPhone 16 512GB",
+    "co2e_kg": 75,
+    "explanation": "This estimate is based on typical LCA data for smartphones of similar size and storage capacity. The total includes raw material extraction (metals, battery, circuit boards), manufacturing (assembly and component production), transport, usage, and end-of-life disposal. Higher storage (512GB) and more advanced components can increase emissions slightly above smaller-capacity models. Using average emission factors from standard LCA databases, the total CO2e is estimated at 75 kg for one iPhone 16 512GB."
+  }
+]

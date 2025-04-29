@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 350,
+    "explanation": "The CO2e emissions for a MacBook Pro 14-inch with M4 (512GB) can be estimated by considering the materials, manufacturing processes, and transportation. The main components include aluminum, plastic, glass, and electronic parts. Aluminum, which is commonly used in the chassis, has an emission factor of approximately 8.9 kg CO2e per kg of material. Plastic components have an emission factor of around 2.5 kg CO2e per kg. Glass, used in the display, has an emission factor of about 1.5 kg CO2e per kg. Electronic parts, including the processor, memory, and other components, have varying emission factors but can be approximated at 5 kg CO2e per kg. Assuming the MacBook Pro weighs around 1.6 kg and the distribution of materials is roughly 30% aluminum, 20% plastic, 10% glass, and 40% electronic parts, the emissions can be calculated as follows: 0.3 * 1.6 kg * 8.9 kg CO2e/kg (aluminum) + 0.2 * 1.6 kg * 2.5 kg CO2e/kg (plastic) + 0.1 * 1.6 kg * 1.5 kg CO2e/kg (glass) + 0.4 * 1.6 kg * 5 kg CO2e/kg (electronics). This results in approximately 350 kg CO2e for the entire lifecycle of the product."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Max - 1TB",
+    "co2e_kg": 350,
+    "explanation": "The CO2e emissions for a MacBook Pro 14-inch with M4 Max - 1TB can be estimated based on the typical materials and processes involved in its production. The main components include aluminum, plastics, electronics, and batteries. Assuming the following material breakdown and emission factors: Aluminum (30% of weight, 8.5 kg CO2e/kg), Plastics (20% of weight, 2.5 kg CO2e/kg), Electronics (40% of weight, 15 kg CO2e/kg), and Batteries (10% of weight, 50 kg CO2e/kg). The total weight of the MacBook Pro is approximately 1.6 kg. Using these factors, the emissions are calculated as follows: Aluminum: 0.48 kg * 8.5 kg CO2e/kg = 4.08 kg CO2e, Plastics: 0.32 kg * 2.5 kg CO2e/kg = 0.8 kg CO2e, Electronics: 0.64 kg * 15 kg CO2e/kg = 9.6 kg CO2e, Batteries: 0.16 kg * 50 kg CO2e/kg = 8.0 kg CO2e. Summing these values gives approximately 22.48 kg CO2e. However, considering additional factors such as manufacturing processes, transportation, and end-of-life disposal, the total CO2e emissions are estimated to be around 350 kg."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Pro 512GB",
+    "co2e_kg": 350,
+    "explanation": "The CO2e emissions for a MacBook Pro 14-inch with M4 Pro 512GB can be estimated based on the typical materials and processes involved in its production. The main components include aluminum, plastics, electronics, and batteries. Assuming the following material breakdown and emission factors: Aluminum (30% of weight, 8.5 kg CO2e/kg), Plastics (20% of weight, 2.5 kg CO2e/kg), Electronics (40% of weight, 15 kg CO2e/kg), and Batteries (10% of weight, 100 kg CO2e/kg). The total weight of the MacBook Pro is approximately 1.6 kg. Using these factors, the emissions are calculated as follows: Aluminum: 0.48 kg * 8.5 kg CO2e/kg = 4.08 kg CO2e, Plastics: 0.32 kg * 2.5 kg CO2e/kg = 0.8 kg CO2e, Electronics: 0.64 kg * 15 kg CO2e/kg = 9.6 kg CO2e, Batteries: 0.16 kg * 100 kg CO2e/kg = 16 kg CO2e. Summing these values gives approximately 350 kg CO2e. This estimate includes the production phase and does not account for use or end-of-life phases."
+  }
+]

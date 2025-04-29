@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 320,
+    "explanation": "This value is an estimated cradle-to-grave life cycle assessment for a 14-inch MacBook Pro with an M4 chip (512GB). It is based on typical material composition (approximately 50% aluminum enclosure, 20% other metals, 20% electronics and plastics, and 10% battery and ancillary parts) and standard emission factors per kilogram of material. The estimate also includes emissions from manufacturing processes (which represent the largest share), global shipping, average electricity use during the product’s lifetime (assuming standard usage patterns and typical grid mix), and end-of-life disposal or recycling. Actual figures may vary depending on specific suppliers, use patterns, and regional energy sources."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Max - 1TB",
+    "co2e_kg": 420,
+    "explanation": "This estimate is based on typical LCA assumptions for aluminum laptop bodies, battery materials, logic boards, memory, and SSD production. It accounts for raw material extraction and processing, manufacturing, global shipping, average electricity use over a ~4-year lifespan, and end-of-life treatment. Emission factors are derived from commonly used databases (e.g., Ecoinvent) and Apple's published environmental reports for similar products."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Pro 512GB",
+    "co2e_kg": 320,
+    "explanation": "This estimate is based on typical materials (aluminum enclosure, battery, electronics), manufacturing processes, global shipping, an estimated three-year usage scenario, and end-of-life treatment. Using common emission factors for consumer electronics (including ~0.011 kgCO2e per gram of aluminum, standard PCB and battery production factors, and average energy grids), the total life cycle GHG emissions for a 14-inch MacBook Pro with M4 Pro and 512GB storage come to approximately 320 kg CO2e."
+  }
+]

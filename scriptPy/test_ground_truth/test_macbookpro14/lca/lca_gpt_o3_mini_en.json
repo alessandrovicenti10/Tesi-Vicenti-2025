@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 300,
+    "explanation": "This estimate is based on a cradle‐to‐grave life cycle assessment similar to recent studies of high‐end laptops. The analysis considered the dominant materials (aluminum, glass, plastics, battery components, and electronic circuitry), the high energy and emissions costs of precision manufacturing, transportation logistics, several years of use (including energy consumption), and recycling/end‐of‐life processes. Drawing on updated emission factor data and environmental reports (including analogous data from previous MacBook product assessments) and assuming a typical lifespan of 4–5 years, the overall impact for a 14-inch MacBook Pro with the M4 chip and 512GB storage is estimated to be on the order of 300 kg CO2e. This value represents a synthesis of current LCA protocols, available scientific data, and reasonable assumptions where direct data is unavailable."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Max - 1TB",
+    "co2e_kg": 250,
+    "explanation": "This estimate is based on a cradle‐to‐grave life cycle analysis drawing on recent LCA studies for high-end laptops. The MacBook Pro 14-inch with M4 Max – 1TB is assumed to use similar materials (aluminum for the chassis, glass, plastics, and high‐purity metals for the electronics) as found in comparable MacBook Pro models. In our reasoning we assumed that the manufacturing phase (which includes raw material extraction, component fabrication, and assembly) accounts for roughly 60–70% of the total emissions (estimated here at around 150–180 kg CO2e), with the remaining emissions derived from transportation, use-phase energy consumption over an assumed 4–5 year lifespan (even given energy efficiency improvements), and end-of-life recycling/disposal. Emission factors from recent scientific studies as well as reference benchmarks (including information disclosed in Apple’s environmental documents) were used. In the absence of product-specific data for the new M4 Max version, we made reasonable assumptions based on similar products and standardized protocols, arriving at an approximate total of 250 kg CO2e for the entire life cycle."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Pro 512GB",
+    "co2e_kg": 350,
+    "explanation": "The estimation is based on a cradle‐to‐grave life cycle analysis for a premium laptop. Principal materials such as machined aluminum, glass, plastics, printed circuit boards, and a lithium‐ion battery are taken into account. Reference factors from recent LCAs on similar high-end notebooks suggest that the production phase (including raw material extraction and manufacturing) typically makes up the largest share (around 60–70% of total emissions), with estimated emissions of roughly 220–250 kg CO2e. The use phase, depending on energy mix and efficiency, adds roughly 80–100 kg CO2e over an assumed multi‐year lifetime. End‐of‐life treatment and recycling processes contribute a smaller share. Given that this MacBook Pro uses a newer high-performance M4 Pro chipset and solid state storage of 512GB, the overall emissions are estimated at approximately 350 kg CO2e. This outcome is in line with recent scientific studies and industry protocols using the most recent available data and methods."
+  }
+]

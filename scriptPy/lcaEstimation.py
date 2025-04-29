@@ -3,14 +3,15 @@ from openai import OpenAI
 from together import Together
 import openai
 
-#client = Together(api_key = "api_key")
-#API_KEY = "api_key"
-#client = openai.OpenAI(api_key=API_KEY)
-#MODEL = "gpt-4o"
+#client = Together(api_key = "5a49da191ec54d69ba99d57d9f6413d527a061172fbd48d51cfbeee2e7561568")
+API_KEY = "APIKEY"
+client = openai.OpenAI(api_key=API_KEY)
+MODEL =  "gpt-4.1-mini-2025-04-14" #"o1-2024-12-17" #"o3-mini-2025-01-31" #"gpt-4.1-nano-2025-04-14" #"gpt-4o-2024-08-06" #"o3-2025-04-16"
 
-API_KEY = "api_key"  # Sostituisci con la tua API Key
-MODEL = "deepseek/deepseek-r1"   #"meta-llama/llama-4-maverick:free"  #"anthropic/claude-3.7-sonnet" #"google/gemini-2.0-flash-thinking-exp:free"  #"mistralai/mistral-small-3.1-24b-instruct:free" #"deepseek/deepseek-chat-v3-0324:free"
-BASE_URL = "https://openrouter.ai/api/v1"
+#API_KEY = "APIKEY"  # Sostituisci con la tua API Key
+#MODEL = "google/gemini-2.5-pro-preview-03-25"  #"deepseek/deepseek-r1:free" # "perplexity/sonar-deep-research"     #"google/gemini-2.5-pro-preview-03-25"   #"anthropic/claude-3.7-sonnet" #"google/gemini-2.0-flash-thinking-exp:free"   
+#"meta-llama/llama-4-maverick:free"  #"mistralai/mistral-small-3.1-24b-instruct:free" #"deepseek/deepseek-chat-v3-0324:free"
+#BASE_URL = "https://openrouter.ai/api/v1"
 
 #client = OpenAI(base_url=BASE_URL, api_key=API_KEY)
 
@@ -24,24 +25,35 @@ def estimate_co2_for_product(product_data, llm_model=MODEL):
     # Prepara il prompt con le informazioni di contesto
     prompt = f"""
     You are an expert in life cycle analysis (LCA) and CO2e emission calculation for electronic products.
-    You must estimate the CO2e emissions, based on the entire life cycle, that is cradle to grave phase, for the following electronic product.
+    You must estimate the CO2e emissions, based on the entire life cycle (cradle to grave), for the following electronic product.
 
     Product data: {json.dumps(product_data, ensure_ascii=False)}
 
     INSTRUCTIONS:
-    1. Analyze the product information.
-    2. Consider the main materials of the product.
-    3. Estimate the emission factor in kg of CO2e based on reference factors.
-    4. Give a brief explanation of your reasoning.
-    5. If information is missing, make reasonable assumptions based on similar products and scientific sources and protocols/standards.
-    6. Use scientific methods and protocols/standards.
-    7. Use the most recent data available.
-    8. Use the most accurate methods available.
+    1. FIRST, check if there are any official carbon footprint reports or environmental product declarations (EPD) 
+       from the manufacturer for this specific product.
+       If found, use these official values as your primary source.
+
+    2. If NO official manufacturer reports are available, then estimate emissions following these protocols:
+       - GHG Protocol Product Standard for system boundaries and calculation methodology
+       - ISO 14040/14044 for Life Cycle Assessment principles
+       - PAS 2050 and ISO/TS 14067 for carbon footprint calculation guidelines
+
+    3. For estimation, consider:
+       - Main materials composition
+       - Manufacturing processes
+       - Transportation
+       - Use phase energy consumption
+       - End-of-life disposal
+
+    4. Use the most recent emission factors and scientific data available
+    5. Document your sources and assumptions in the explanation
+    6. Clearly state if you're using manufacturer data or estimation
 
     Reply ONLY with a JSON object containing these exact fields:
     {{
         "co2e_kg": <number>,
-        "explanation": "<detailed explanation>"
+        "explanation": "<detailed explanation including data source (manufacturer report or estimation)>"
     }}
     Do not include any markdown formatting or additional JSON wrappers.
     """
@@ -51,6 +63,7 @@ def estimate_co2_for_product(product_data, llm_model=MODEL):
         messages=[{"role": "user", "content": prompt}],
         temperature=0.0
     )
+    print(response)
     
     # Proteggi l'accesso in caso la risposta sia None o vuota
     if not response or not response.choices:
@@ -88,7 +101,7 @@ def estimate_co2_for_product(product_data, llm_model=MODEL):
 def main(num_rows):
     # Carica i dati dal tuo file .jsonl
     products = []
-    with open("../dataset/elctronics.jsonl", "r", encoding="utf-8") as f:
+    with open("../dataset/Multi_products.jsonl", "r", encoding="utf-8") as f:
         for i, line in enumerate(f):
             if i >= num_rows:
                 break
@@ -136,8 +149,8 @@ def main(num_rows):
             })
     
     # Salva i risultati in un file JSON
-    with open("lca_gpt_4o_en.json", "w", encoding="utf-8") as out:
+    with open("Mlca_gpt4.1mini_4.json", "w", encoding="utf-8") as out:
         json.dump(results, out, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
-    main(10)
+    main(26)

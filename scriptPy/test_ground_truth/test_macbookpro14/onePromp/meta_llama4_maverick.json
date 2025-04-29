@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 536.88,
+    "explanation": "The estimated CO2e emissions for the MacBook Pro 14-inch with M4 (512GB) is based on a simplified life cycle assessment. Production phase emissions are estimated at 350 kg CO2e, considering the device's complexity and material composition. Use phase emissions over 4 years are estimated at 186.88 kg CO2e, based on assumed energy consumption patterns and an emission factor of 0.4 kg CO2e/kWh. The total CO2e is the sum of these phases, totaling 536.88 kg CO2e."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Max - 1TB",
+    "co2e_kg": 343.52,
+    "explanation": "The estimated CO2e emissions for the production of the MacBook Pro 14-inch with M4 Max - 1TB is approximately 34.52 kg. This calculation is based on assumed material composition and common emission factors for those materials. The actual emissions could vary based on specific production processes, material sourcing, and the energy mix used during the device's use phase."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Pro 512GB",
+    "co2e_kg": 15.1,
+    "explanation": "The CO2e emissions for the MacBook Pro 14-inch with M4 Pro 512GB were estimated using a simplified life cycle assessment. Material composition was approximated, and emission factors were applied. The total CO2e was calculated considering the production phase to account for approximately 80% of total life cycle emissions, resulting in an estimated 15.1 kg CO2e."
+  }
+]

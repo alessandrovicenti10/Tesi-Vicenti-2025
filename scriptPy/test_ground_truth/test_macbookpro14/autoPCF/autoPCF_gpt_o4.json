@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 210.0,
+    "explanation": "The total CO2e emissions for the MacBook Pro 14-inch with M4 (512GB) are calculated by summing the emissions from material extraction and processing, manufacturing, transportation, and end-of-life disposal. Material extraction and processing contribute significantly due to the energy-intensive nature of aluminum and lithium-ion battery components. Manufacturing emissions are provided as 120 kg CO2e. Transportation and distribution are estimated at 30 kg CO2e, considering global logistics and distribution networks. End-of-life disposal is estimated at 10 kg CO2e, accounting for recycling and waste management processes. These estimates follow the GHG Protocol Product Standard for system boundaries, ISO 14040/14044 for life cycle inventory analysis, and PAS 2050 and ISO/TS 14067 for carbon footprint calculation, ensuring all emissions are converted to CO2e using appropriate GWP values."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Max - 1TB",
+    "co2e_kg": 250.0,
+    "explanation": "The total CO2e emissions for the MacBook Pro 14-inch with M4 Max - 1TB are estimated at 250 kg. This calculation follows the GHG Protocol Product Standard and ISO 14040/14044 guidelines. The manufacturing emissions are 150 kg CO2e, as detailed in the provided data. Material extraction and processing contribute an additional estimated 60 kg CO2e, based on the energy-intensive nature of aluminum and glass production, and the mining and processing of lithium-ion battery components. Transportation and distribution are estimated to add 20 kg CO2e, considering global logistics and distribution networks. End-of-life disposal, including recycling and waste management, is estimated to contribute 20 kg CO2e. These estimates use emission factors from reliable databases and consider the complete product life cycle, converting all GHG emissions to CO2e using GWP values as per PAS 2050 and ISO/TS 14067."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Pro 512GB",
+    "co2e_kg": 320.0,
+    "explanation": "The total CO2e emissions for the MacBook Pro 14-inch with M4 Pro 512GB are calculated by summing emissions from material extraction and processing, manufacturing, transportation, and end-of-life disposal. Material extraction and processing contribute significantly due to the energy-intensive nature of aluminum, glass, and lithium-ion battery components. Manufacturing emissions are provided as 150 kg CO2e. Transportation emissions are estimated based on typical logistics for electronics, assuming global distribution, adding approximately 50 kg CO2e. End-of-life disposal, including recycling and landfill impacts, contributes around 20 kg CO2e. These estimates follow the GHG Protocol Product Standard for system boundaries, ISO 14040/14044 for life cycle inventory analysis, and PAS 2050 and ISO/TS 14067 for carbon footprint calculation, ensuring all emissions are converted to CO2e using appropriate GWP values."
+  }
+]

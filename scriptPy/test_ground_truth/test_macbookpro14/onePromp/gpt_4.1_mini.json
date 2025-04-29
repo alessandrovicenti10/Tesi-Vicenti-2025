@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 200,
+    "explanation": "The MacBook Pro 14-inch with M4 chip weighs approximately 1.6 kg. Typical laptops contain about 25% aluminum, 30% plastic, 15% glass, 10% copper, 5% lithium-ion batteries, and the remainder other metals and components. Using common emission factors: aluminum production (~11 kg CO2e/kg), plastics (~6 kg CO2e/kg), glass (~1.5 kg CO2e/kg), copper (~4 kg CO2e/kg), and lithium-ion batteries (~150 kg CO2e/kWh capacity). Assuming a 512GB SSD requires roughly 15 Wh, and battery capacity about 70 Wh, the materials contribute approximately 75 kg CO2e (aluminum ~44 kg, plastic ~29 kg, glass ~4 kg, copper ~10 kg) plus about 15 kg CO2e from battery production and 10 kg from semiconductor manufacturing. Additional emissions from assembly, packaging, and transportation are estimated around 40 kg CO2e. Summing these estimates yields a total life cycle CO2e footprint of approximately 200 kg CO2e."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Max - 1TB",
+    "co2e_kg": 230,
+    "explanation": "The MacBook Pro 14-inch with M4 Max (1TB) is a high-end laptop primarily composed of aluminum (for the chassis), various plastics, glass, lithium-ion batteries, and electronic components including semiconductors and display technologies. Typical laptops weigh around 1.6 kg, with materials roughly distributed as 40% aluminum, 30% plastics, 20% PCBs and electronics, and 10% battery and other components. Emission factors used: aluminum (8-12 kg CO2e/kg), plastics (~6 kg CO2e/kg), PCBs and semiconductors (~100 kg CO2e/kg due to complex manufacturing), and lithium-ion batteries (~150 kg CO2e/kg). Applying approximate material weights and these factors, the total manufacturing phase CO2e is estimated around 230 kg CO2e. This excludes use-phase and end-of-life emissions, focusing solely on production, which is the dominant source for electronics. This estimate aligns with published LCA data for similar high-performance laptops."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Pro 512GB",
+    "co2e_kg": 200,
+    "explanation": "The MacBook Pro 14-inch with M4 Pro 512GB consists primarily of aluminum (around 30%), plastics (about 25%), glass (approximately 15%), and various electronic components including rare earth metals and silicon (about 30%). Emission factors for these materials are: aluminum ~11.5 kg CO2e/kg, plastics ~6 kg CO2e/kg, glass ~1 kg CO2e/kg, and electronic components ~50 kg CO2e/kg due to their complex mining and manufacturing processes. Assuming an estimated weight of approximately 1.6 kg for the device: aluminum (0.48 kg) generates ~5.52 kg CO2e; plastics (0.4 kg) generate ~2.4 kg CO2e; glass (0.24 kg) generates ~0.24 kg CO2e; electronic components (0.48 kg) generate ~24 kg CO2e. Adding embodied carbon from assembly, transportation, and packaging approximately doubles the total material emissions, resulting in an overall estimate around 200 kg CO2e for the full life cycle of the device. This estimate aligns with reported LCA studies on similar laptops including Apple products."
+  }
+]

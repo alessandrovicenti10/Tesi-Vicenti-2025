@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 280,
+    "explanation": "Estimate based on Apple's reported lifecycle emissions for similar models (e.g., 14-inch M2 Pro at 287 kg CO2e), adjusted for assumed efficiency improvements in the M4 chip and manufacturing. Breakdown: Production (~200 kg, including aluminum, semiconductors, and assembly), transportation (~8 kg, global logistics), use phase (~60 kg, 4-year usage at 58 kWh with grid average emissions), and end-of-life (~12 kg, net emissions from recycling/disposal). Assumptions align with Apple’s environmental reports and industry LCA standards (ISO 14040/44), prioritizing recent data and material-specific emission factors."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Max - 1TB",
+    "co2e_kg": null,
+    "explanation": "Error processing response: Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Pro 512GB",
+    "co2e_kg": 290,
+    "explanation": "Estimate accounts for cradle-to-grave phases. Production (~75% of total) includes aluminum casing, M4 Pro chip (3nm process, high embedded emissions), and lithium battery. Transportation assumes global shipping (air/sea). Use phase (5 years, 14W avg power, 5h/day) uses global electricity mix (0.475 kg CO2e/kWh). End-of-life assumes partial recycling offset. Aligns with Apple’s reported 287 kg CO2e for similar M1 Pro models, adjusted for M4 efficiency gains and updated manufacturing."
+  }
+]

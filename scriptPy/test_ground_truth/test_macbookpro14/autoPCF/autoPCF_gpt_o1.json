@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 190.0,
+    "explanation": "Using GHG Protocol Product Standard and ISO 14040/14044, the 160 kg CO2e manufacturing figure (which includes material extraction/processing) was combined with approximately 20 kg CO2e for global transportation/distribution and 10 kg CO2e for end-of-life disposal, following PAS 2050 and ISO/TS 14067 guidelines, resulting in a total of about 190 kg CO2e."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Max - 1TB",
+    "co2e_kg": 250.0,
+    "explanation": "Lifecycle emissions include ~120 kg from manufacturing, plus estimates for raw material extraction, transport, distribution, and end-of-life (total ~130 kg). Calculations align with GHG Protocol Product Standard, ISO 14040/14044, PAS 2050, and ISO/TS 14067 guidance."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Pro 512GB",
+    "co2e_kg": 245.0,
+    "explanation": "Total includes ~210 kg CO2e for material extraction and manufacturing (based on standard factors for metals, battery components, glass, plastics, and semiconductor fabrication), plus ~20 kg CO2e for global transportation and distribution, and ~15 kg CO2e for end-of-life disposal. Calculations follow GHG Protocol Product Standard, ISO 14040/14044, PAS 2050, and ISO/TS 14067 guidelines."
+  }
+]

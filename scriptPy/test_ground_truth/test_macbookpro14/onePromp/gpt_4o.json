@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 350,
+    "explanation": "The CO2e emissions for a MacBook Pro 14-inch with M4 (512GB) are estimated based on typical emissions factors for laptops. The main materials in a laptop include aluminum, glass, plastic, and electronic components. Aluminum production is energy-intensive, contributing significantly to the carbon footprint. The manufacturing process, including assembly and transportation, also adds to the emissions. Based on industry averages, a typical laptop has a carbon footprint of around 300-400 kg CO2e. Given the specifications and category of the product, an estimate of 350 kg CO2e is reasonable, considering the use of advanced materials and efficient manufacturing processes typical of Apple products."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Max - 1TB",
+    "co2e_kg": 350,
+    "explanation": "The CO2e emissions for a MacBook Pro 14-inch with M4 Max - 1TB are estimated based on typical emissions factors for laptops. The main materials in a laptop include aluminum, glass, plastic, and electronic components. Aluminum production is energy-intensive, contributing significantly to the carbon footprint. The manufacturing process, including assembly and testing, also adds to the emissions. Transport and distribution further increase the CO2e. Based on industry averages, a laptop of this type typically results in approximately 350 kg CO2e over its lifecycle, including production, transportation, and end-of-life disposal."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Pro 512GB",
+    "co2e_kg": 350,
+    "explanation": "The CO2e emissions for a MacBook Pro 14-inch with M4 Pro 512GB are estimated based on typical emissions factors for laptops. The main materials in a laptop include aluminum, glass, plastic, and electronic components. Aluminum production is energy-intensive, contributing significantly to the carbon footprint. The manufacturing process, including assembly and transportation, also adds to the emissions. Based on industry averages, a laptop of this size and specification typically results in approximately 350 kg of CO2e emissions over its lifecycle, including production, transportation, usage, and end-of-life disposal. This estimate assumes the use of common emission factors for each material and process involved."
+  }
+]

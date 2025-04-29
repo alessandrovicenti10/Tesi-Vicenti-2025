@@ -4,15 +4,16 @@ from openai import OpenAI
 from together import Together
 
 #client = Together(api_key = "api_key")
-API_KEY = "api_key"
-client = openai.OpenAI(api_key=API_KEY)
-MODEL = "gpt-4o"
+#API_KEY = "APIKEY"
+#client = openai.OpenAI(api_key=API_KEY)
+#MODEL = "gpt-4.1-nano-2025-04-14"
 
-#API_KEY = "api_key"  # Sostituisci con la tua API Key
-#MODEL = "deepseek/deepseek-r1"   #"meta-llama/llama-4-maverick:free"  #"anthropic/claude-3.7-sonnet" #"google/gemini-2.0-flash-thinking-exp:free"  #"mistralai/mistral-small-3.1-24b-instruct:free" #"deepseek/deepseek-chat-v3-0324:free"
+API_KEY = "APIKEY"  # Sostituisci con la tua API Key
+MODEL = "anthropic/claude-3.7-sonnet"    #"google/gemini-2.5-pro-preview-03-25"   #"anthropic/claude-3.7-sonnet" #"google/gemini-2.0-flash-thinking-exp:free"       
+#"meta-llama/llama-4-maverick:free"  #"mistralai/mistral-small-3.1-24b-instruct:free" #"deepseek/deepseek-chat-v3-0324:free"
 BASE_URL = "https://openrouter.ai/api/v1"
 
-#client = OpenAI(base_url=BASE_URL, api_key=API_KEY)
+client = OpenAI(base_url=BASE_URL, api_key=API_KEY)
 
 
 def estimate_co2_for_product(product_data, llm_model=MODEL):
@@ -24,9 +25,9 @@ def estimate_co2_for_product(product_data, llm_model=MODEL):
     # Prepara il prompt con le informazioni di contesto
     prompt = f"""
     You are an expert in life cycle analysis (LCA). 
-    Calculate CO2e in kg emissions for the following product, 
-    using its characteristics and assuming the percentage of materials
-    and the most common emission factors.
+    Give me the CO2e emissions value in kg for the following product, 
+    using its characteristics and assuming the percentage of materials, emission factors and most important 
+    international protocols.
 
     Product data: {json.dumps(product_data, ensure_ascii=False)}
 
@@ -81,7 +82,7 @@ def estimate_co2_for_product(product_data, llm_model=MODEL):
 def main(num_rows):
     # Carica i dati dal tuo file .jsonl
     products = []
-    with open("../dataset/elctronics.jsonl", "r", encoding="utf-8") as f:
+    with open("../dataset/Multi_products.jsonl", "r", encoding="utf-8") as f:
         for i, line in enumerate(f):
             if i >= num_rows:
                 break
@@ -118,8 +119,8 @@ def main(num_rows):
             })
     
     # Salva i risultati in un file JSON
-    with open("gpt_4o.json", "w", encoding="utf-8") as out:
+    with open("M_calude3.7sonnetaltiririiri.json", "w", encoding="utf-8") as out:
         json.dump(results, out, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
-    main(10)
+    main(16)

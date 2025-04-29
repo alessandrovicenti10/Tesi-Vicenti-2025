@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 250,
+    "explanation": "The MacBook Pro 14-inch with M4 (512GB) is a high-end electronic device with complex materials including aluminum, magnesium, plastics, glass, and electronic components. Based on recent life cycle assessments of similar premium laptops, the cradle-to-grave CO2e emissions typically range between 200 to 300 kg per unit. Considering manufacturing, raw material extraction, assembly, transportation, usage, and end-of-life disposal, an estimated average emission factor of approximately 250 kg CO2e per device is reasonable. This estimate accounts for the substantial material extraction and manufacturing impacts, as well as the relatively low energy consumption during use, and standard disposal practices."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Max - 1TB",
+    "co2e_kg": 350,
+    "explanation": "The MacBook Pro 14-inch with M4 Max - 1TB is a high-performance premium laptop with complex materials including aluminum, magnesium, various plastics, glass, and electronic components such as semiconductors and batteries. Based on recent life cycle assessments of similar high-end laptops, the total cradle-to-grave CO2e emissions typically range between 300 to 400 kg per unit. Considering the manufacturing energy, material extraction, component complexity, and end-of-life disposal, an estimated value of approximately 350 kg CO2e is reasonable. This estimate accounts for manufacturing emissions (~150 kg), material extraction (~50 kg), transportation (~30 kg), use-phase emissions (~50 kg over its lifespan), and end-of-life processing (~20 kg), with the remaining accounting for supply chain and other indirect emissions."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Pro 512GB",
+    "co2e_kg": 250,
+    "explanation": "The MacBook Pro 14-inch with M4 Pro 512GB is a high-end electronic device with complex materials including aluminum, lithium, rare earth elements, plastics, and electronic components. Based on recent life cycle assessments of similar premium laptops, the total cradle-to-grave CO2e emissions typically range between 200 to 300 kg per unit. Considering the manufacturing, material extraction, assembly, transportation, usage, and end-of-life phases, an estimated value of approximately 250 kg CO2e is reasonable. This estimate accounts for the substantial material extraction and manufacturing emissions, as well as the relatively low energy consumption during use, and standard disposal practices. Assumptions include average global supply chain emissions and typical recycling rates for electronic waste."
+  }
+]

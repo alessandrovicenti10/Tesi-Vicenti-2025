@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "MacBook Pro 14-inch with M4 (512GB)",
+    "co2e_kg": 170.0,
+    "explanation": "The calculation is based on the typical life cycle emissions of a high-end laptop like the MacBook Pro 14-inch with M4. Manufacturing and assembly account for approximately 45% of total emissions, around 76.5 kg CO2e. The main materials include aluminum (around 20%), plastics (15%), and other components, with aluminum having a higher emissions factor (~25 kg CO2e per kg). The device weighs about 1.6 kg, with an estimated material composition: roughly 0.32 kg aluminum, 0.24 kg plastics, and the rest electronic components. Using common emission factors and assuming a lifespan of 5 years, the total embodied emissions are roughly 170 kg CO2e. This estimate accounts for manufacturing, assembly, and initial materials, not including use-phase or end-of-life processing."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Max - 1TB",
+    "co2e_kg": 215.0,
+    "explanation": "The CO2e emissions estimate for the MacBook Pro 14-inch with M4 Max - 1TB is based on typical life cycle analysis data for high-end laptops in the 'Computers' category. The main sources of emissions include manufacturing (about 150 kg CO2e), particularly due to aluminum, lithium, and electronic components, along with transportation (around 30 kg CO2e), and usage plus end-of-life disposal (about 35 kg CO2e). Emission factors are derived from common industry averages for raw material extraction, component manufacturing, and product usage patterns. Consequently, the total emissions sum to approximately 215 kg CO2e across its lifecycle."
+  },
+  {
+    "product_name": "MacBook Pro 14-inch with M4 Pro 512GB",
+    "co2e_kg": 180,
+    "explanation": "The estimated CO2e emissions for the MacBook Pro 14-inch with M4 Pro 512GB are approximately 180 kg. This calculation considers the typical material composition: approximately 15% aluminum, 25% plastics, 20% lithium and other battery materials, 10% silicon and semiconductors, and the remaining 30% in electronic components and packaging. Using common emission factors such as 8 kg CO2e per kg aluminum, 6 kg CO2e per kg plastics, 12 kg CO2e per kg lithium and batteries, and 10 kg CO2e per kg for electronic components, the total emissions are derived from aggregating the material weights and their emissions. The manufacturing, logistics, and end-of-life phases contribute further but are approximated within these typical factors, resulting in an estimated 180 kg CO2e per unit."
+  }
+]
